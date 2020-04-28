@@ -10,14 +10,4 @@
     android:background="@drawable/background">
 
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="30dp"
-        android:layout_marginLeft="185dp"
-        android:layout_marginTop="725dp"
-        android:fontFamily="@font/averia_libre"
-        android:text="Tap anywhere to start!!"
-        android:textAlignment="center"
-        android:textSize="20sp" />
-
 </RelativeLayout>
