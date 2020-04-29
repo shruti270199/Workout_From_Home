@@ -41,5 +41,4 @@
         android:textSize="35sp"
         android:layout_centerHorizontal="true"/>
 
-
 </RelativeLayout>
