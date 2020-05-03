@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.RadioGroup;
+import android.widget.Toast;
 
 public class Main2Activity extends AppCompatActivity {
     RadioGroup radiogrp;
@@ -19,18 +20,22 @@ public class Main2Activity extends AppCompatActivity {
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                int selectid = radiogrp.getCheckedRadioButtonId();
+                int selectid = radiogrp.getCheckedRadioButtonId ();
                 if(selectid==R.id.Radiob1)
                 {
                     Intent i = new Intent(Main2Activity.this, Main3Activity.class);
                     startActivity(i);
                     finish();
                 }
-                else
+                else if(selectid==R.id.Radiob2)
                 {
                     Intent i = new Intent(Main2Activity.this, Main4Activity.class);
                     startActivity(i);
                     finish();
+                }
+                else
+                {
+                    Toast.makeText(getApplicationContext(), "Please select an option to proceed", Toast.LENGTH_LONG).show();
                 }
 
             }
