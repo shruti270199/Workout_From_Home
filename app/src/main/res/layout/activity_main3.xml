@@ -8,5 +8,38 @@
     android:id="@+id/RelativeLayout1"
     android:background="@drawable/background">
 
-    
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:layout_margin="25dp"
+        android:text="Male Workout"
+        android:textSize="40sp"
+        android:fontFamily="@font/averia_libre_bold"
+        android:textAlignment="center"
+        android:gravity="bottom"
+        android:textColor="#ffffff"
+        android:id="@+id/text5"/>
+
+
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_marginTop="15dp"
+         android:layout_below="@+id/text5"
+         android:layout_height="600dp">
+
+
+         <ListView
+             android:layout_width="match_parent"
+             android:layout_height="500dp"
+             android:id="@+id/ListView1">
+
+
+
+         </ListView>
+
+
+     </LinearLayout>
+
+
 </RelativeLayout>
