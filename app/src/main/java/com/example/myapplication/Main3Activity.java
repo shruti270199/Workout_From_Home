@@ -36,8 +36,8 @@ public class Main3Activity extends AppCompatActivity implements AdapterView.OnIt
         if(position == 0)
         {   //Intent to be added, Toast for testing
             Toast.makeText(getApplicationContext(), "Abs worlout", Toast.LENGTH_LONG).show();
-            Intent i = new Intent(Main3Activity.this, Main5Activity.class);
-            startActivity(i);
+            //Intent i = new Intent(Main3Activity.this, Main5Activity.class);
+            //startActivity(i);
         }
         else if(position == 1)
         {//Intent to be added, Toast for testing
