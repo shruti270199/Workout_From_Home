@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity"
+    tools:context=".Main3Activity"
     android:id="@+id/RelativeLayout1"
     android:background="@drawable/background">
 
@@ -23,19 +23,6 @@
         android:textColor="#ffffff"
         android:id="@+id/text5"/>
 
-<<<<<<< HEAD
-        <androidx.recyclerview.widget.RecyclerView
-            android:layout_width="320dp"
-            android:layout_height="600dp"
-            android:id="@+id/recyclerView"
-            android:layout_centerHorizontal="true"
-            android:scrollbars="vertical"
-            android:layout_marginTop="100dp"
-            android:background="#99253A48"
-            >
-
-        </androidx.recyclerview.widget.RecyclerView>
-=======
 
      <LinearLayout
          android:layout_width="match_parent"
@@ -46,6 +33,7 @@
 
          <ListView
              android:layout_width="match_parent"
+             android:layout_marginTop="50dp"
              android:layout_height="500dp"
              android:id="@+id/ListView1">
          </ListView>
@@ -53,6 +41,5 @@
 
      </LinearLayout>
 
->>>>>>> 43c07bd067e8944b353fb2ac9838300b3e8a4e7d
 
 </RelativeLayout>

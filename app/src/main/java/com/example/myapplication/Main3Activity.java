@@ -14,12 +14,12 @@ public class Main3Activity extends AppCompatActivity implements AdapterView.OnIt
 
     String[] names1 = new String[]{"Abs Workout", "Upper Body Workout", "Lower Body Workout", "Full Body Workout"};
 
-        Integer[] img1={
-        R.drawable.bg1,
-        R.drawable.bg1,
-        R.drawable.bg1,
-        R.drawable.bg1,
-        };
+    Integer[] img1={
+            R.drawable.bg1,
+            R.drawable.bg1,
+            R.drawable.bg1,
+            R.drawable.bg1,
+    };
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -30,53 +30,26 @@ public class Main3Activity extends AppCompatActivity implements AdapterView.OnIt
 
         CustomListAdapter adapter = new CustomListAdapter(this, names1, img1);
         lv1.setAdapter(adapter);
-<<<<<<< HEAD
-
-        lv1.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-            @Override
-            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                if (position == 0)
-                {   //Intent to be added, Toast for testing
-                    Toast.makeText(getApplicationContext(), "Abs workout", Toast.LENGTH_SHORT).show();
-                }
-                if (position == 1)
-                {//Intent to be added, Toast for testing
-                   Toast t= Toast.makeText(getApplicationContext(), "Upper Body workout", Toast.LENGTH_LONG);
-                           t.show();
-                }
-                if (position == 2)
-                {//Intent to be added, Toast for testing
-                    Toast.makeText(getApplicationContext(), "Lower Body workout", Toast.LENGTH_LONG).show();
-                }
-                if (position == 3)
-                {//Intent to be added, Toast for testing
-                    Toast.makeText(getApplicationContext(), "Full Body workout", Toast.LENGTH_LONG).show();
-                }
-            }
-        });
-
-=======
         lv1.setOnItemClickListener(this);
->>>>>>> 43c07bd067e8944b353fb2ac9838300b3e8a4e7d
     }
     public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
         if(position == 0)
         {   //Intent to be added, Toast for testing
-            Toast.makeText(getApplicationContext(), "Abs worlout", Toast.LENGTH_LONG).show();
+            Toast.makeText(getApplicationContext(), "Abs workout", Toast.LENGTH_LONG).show();
             //Intent i = new Intent(Main3Activity.this, Main5Activity.class);
             //startActivity(i);
         }
         else if(position == 1)
         {//Intent to be added, Toast for testing
-            Toast.makeText(getApplicationContext(), "Upper Body worlout", Toast.LENGTH_LONG).show();
+            Toast.makeText(getApplicationContext(), "Upper Body workout", Toast.LENGTH_LONG).show();
         }
         else if(position == 2)
         {//Intent to be added, Toast for testing
-            Toast.makeText(getApplicationContext(), "Lower Body worlout", Toast.LENGTH_LONG).show();
+            Toast.makeText(getApplicationContext(), "Lower Body workout", Toast.LENGTH_LONG).show();
         }
         else if(position == 3)
         {//Intent to be added, Toast for testing
-            Toast.makeText(getApplicationContext(), "Full Body worlout", Toast.LENGTH_LONG).show();
+            Toast.makeText(getApplicationContext(), "Full Body workout", Toast.LENGTH_LONG).show();
         }
     }
 }
