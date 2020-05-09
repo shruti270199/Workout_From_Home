@@ -32,10 +32,9 @@
          <ListView
              android:layout_width="match_parent"
              android:layout_height="500dp"
+             android:clickable="false"
+             android:focusable="false"
              android:id="@+id/ListView1">
-
-
-
          </ListView>
 
 
