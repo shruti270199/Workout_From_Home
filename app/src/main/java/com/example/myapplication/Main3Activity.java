@@ -50,19 +50,20 @@ public class Main3Activity extends AppCompatActivity {
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 if (position == 0)
                 {   //Intent to be added, Toast for testing
-                    Toast.makeText(getApplicationContext(), "Abs worlout", Toast.LENGTH_LONG).show();
+                    Toast.makeText(getApplicationContext(), "Abs workout", Toast.LENGTH_SHORT).show();
                 }
                 if (position == 1)
                 {//Intent to be added, Toast for testing
-                    Toast.makeText(getApplicationContext(), "Upper Body worlout", Toast.LENGTH_LONG).show();
+                   Toast t= Toast.makeText(getApplicationContext(), "Upper Body workout", Toast.LENGTH_LONG);
+                           t.show();
                 }
                 if (position == 2)
                 {//Intent to be added, Toast for testing
-                    Toast.makeText(getApplicationContext(), "Lower Body worlout", Toast.LENGTH_LONG).show();
+                    Toast.makeText(getApplicationContext(), "Lower Body workout", Toast.LENGTH_LONG).show();
                 }
                 if (position == 3)
                 {//Intent to be added, Toast for testing
-                    Toast.makeText(getApplicationContext(), "Full Body worlout", Toast.LENGTH_LONG).show();
+                    Toast.makeText(getApplicationContext(), "Full Body workout", Toast.LENGTH_LONG).show();
                 }
             }
         });
