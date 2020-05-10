@@ -15,7 +15,7 @@ public class CustomListAdapter2 extends ArrayAdapter<String> {
 
     public CustomListAdapter2(Activity context, String[] names, Integer[] imageid)
     {
-        super(context, R.layout.male_listview, names);
+        super(context, R.layout.female_listview, names);
         this.context = context;
         this.names = names;
         this.imageid = imageid;

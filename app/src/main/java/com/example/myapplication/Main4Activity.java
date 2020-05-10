@@ -12,9 +12,10 @@ public class Main4Activity extends AppCompatActivity implements AdapterView.OnIt
 
     ListView lv1;
 
-    String[] names1 = new String[]{"Abs Workout", "Upper Body Workout", "Lower Body Workout", "Full Body Workout"};
+    String[] names1 = new String[]{"Abs Workout", "Upper Body Workout", "Lower Body Workout", "Full Body Workout", "Pain relief exercises"};
 
     Integer[] img1={
+            R.drawable.bg1,
             R.drawable.bg1,
             R.drawable.bg1,
             R.drawable.bg1,
@@ -50,6 +51,10 @@ public class Main4Activity extends AppCompatActivity implements AdapterView.OnIt
         else if(position == 3)
         {//Intent to be added, Toast for testing
             Toast.makeText(getApplicationContext(), "Full Body workout", Toast.LENGTH_LONG).show();
+        }
+        else if(position == 4)
+        {//Intent to be added, Toast for testing
+            Toast.makeText(getApplicationContext(), "Pain relief exercises", Toast.LENGTH_LONG).show();
         }
     }
 }
