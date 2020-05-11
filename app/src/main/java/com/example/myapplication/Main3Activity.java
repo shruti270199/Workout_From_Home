@@ -46,6 +46,7 @@ public class Main3Activity extends AppCompatActivity implements AdapterView.OnIt
             i.putExtra("gender", gender);
             i.putExtra("exercise type", "Abs workout");
             startActivity(i);
+            Toast.makeText(getApplicationContext(), "Abs workout", Toast.LENGTH_SHORT).show();
         }
         else if(position == 1)
         {

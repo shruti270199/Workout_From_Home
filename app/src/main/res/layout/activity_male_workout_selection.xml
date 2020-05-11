@@ -11,10 +11,9 @@
     <TextView
         android:layout_width="250dp"
         android:layout_height="50dp"
-        android:text="Male Abs Workout"
         android:layout_marginTop="100dp"
         android:textSize="30sp"
-        android:id="@+id/male_abs"
+        android:id="@+id/text_exercise"
         android:layout_centerHorizontal="true"
         android:fontFamily="@font/averia_libre"
         android:textColor="#ffffff"/>
@@ -25,7 +24,7 @@
         android:layout_height="2dp"
         android:layout_marginTop="2dp"
         android:layout_centerHorizontal="true"
-        android:layout_below="@id/male_abs"
+        android:layout_below="@id/text_exercise"
         android:background="#DC9D9EA7"
         />
 
