@@ -14,4 +14,8 @@
         <item>Intermediate</item>
         <item>Expert</item>
     </string-array>
+    <string name="title_activity_male_tabs">MaleTabs</string>
+    <string name="tab_text_1">Beginner</string>
+    <string name="tab_text_2">Intermediate</string>
+    <string name="tab_text_3">Expert</string>
 </resources>
