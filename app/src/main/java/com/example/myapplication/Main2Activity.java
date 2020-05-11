@@ -23,13 +23,17 @@ public class Main2Activity extends AppCompatActivity {
                 int selectid = radiogrp.getCheckedRadioButtonId ();
                 if(selectid==R.id.Radiob1)
                 {
+                    int gender = 1; // id =1 for male
                     Intent i = new Intent(Main2Activity.this, Main3Activity.class);
+                    i.putExtra("gender",1);
                     startActivity(i);
                     finish();
                 }
                 else if(selectid==R.id.Radiob2)
                 {
-                    Intent i = new Intent(Main2Activity.this, Main4Activity.class);
+                    int gender = 2;
+                    Intent i = new Intent(Main2Activity.this, Main3Activity.class);
+                    i.putExtra("gender",2);
                     startActivity(i);
                     finish();
                 }
