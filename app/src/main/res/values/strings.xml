@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">WorkOut From Home</string>
+
+    <string-array name="male_selection_spinner">
+        <item>Select from here</item>
+        <item>Beginner</item>
+        <item>Intermediate</item>
+        <item>Expert</item>
+    </string-array>
+
+    <string-array name="female_selection_spinner">
+        <item>Select from here</item>
+        <item>Beginner</item>
+        <item>Intermediate</item>
+        <item>Expert</item>
+    </string-array>
 </resources>

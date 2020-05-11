@@ -35,9 +35,9 @@ public class Main3Activity extends AppCompatActivity implements AdapterView.OnIt
     public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
         if(position == 0)
         {   //Intent to be added, Toast for testing
-            Toast.makeText(getApplicationContext(), "Abs workout", Toast.LENGTH_LONG).show();
-            //Intent i = new Intent(Main3Activity.this, Main5Activity.class);
-            //startActivity(i);
+           // Toast.makeText(getApplicationContext(), "Abs workout", Toast.LENGTH_LONG).show();
+            Intent i = new Intent(Main3Activity.this, MaleWorkoutSelection.class);
+            startActivity(i);
         }
         else if(position == 1)
         {//Intent to be added, Toast for testing
