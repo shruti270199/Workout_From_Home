@@ -38,6 +38,8 @@ public class Main3Activity extends AppCompatActivity implements AdapterView.OnIt
            // Toast.makeText(getApplicationContext(), "Abs workout", Toast.LENGTH_LONG).show();
             Intent i = new Intent(Main3Activity.this, MaleWorkoutSelection.class);
             startActivity(i);
+           // Bundle b = new Bundle();
+
         }
         else if(position == 1)
         {//Intent to be added, Toast for testing

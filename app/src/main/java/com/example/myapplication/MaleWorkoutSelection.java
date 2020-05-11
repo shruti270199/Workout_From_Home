@@ -2,6 +2,7 @@ package com.example.myapplication;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
@@ -29,11 +30,27 @@ public class MaleWorkoutSelection extends AppCompatActivity implements AdapterVi
     @Override
     public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
         String text = parent.getItemAtPosition(position).toString();
-        Toast.makeText(parent.getContext(), text, Toast.LENGTH_SHORT);
+        switch (position){
+
+            case 1:
+                //Intent
+                Toast.makeText(getApplicationContext(), "Beginer", Toast.LENGTH_SHORT).show();
+                break;
+            case 2:
+                //Intent
+                Toast.makeText(getApplicationContext(), "Beginer", Toast.LENGTH_SHORT).show();
+                break;
+            case 3:
+                //Intent
+                Toast.makeText(getApplicationContext(), "Beginer", Toast.LENGTH_SHORT).show();
+                break;
+        }
     }
 
     @Override
     public void onNothingSelected(AdapterView<?> parent) {
 
+
+        Toast.makeText(getApplicationContext(), "Please select", Toast.LENGTH_SHORT).show();
     }
 }

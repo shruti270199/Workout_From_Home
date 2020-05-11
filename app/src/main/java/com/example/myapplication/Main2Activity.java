@@ -23,7 +23,7 @@ public class Main2Activity extends AppCompatActivity {
                 int selectid = radiogrp.getCheckedRadioButtonId ();
                 if(selectid==R.id.Radiob1)
                 {
-                    Intent i = new Intent(Main2Activity.this, MaleTabs.class);
+                    Intent i = new Intent(Main2Activity.this, Main3Activity.class);
                     startActivity(i);
                     finish();
                 }
