@@ -38,6 +38,6 @@ public class MainActivity extends AppCompatActivity {
         }, 3000);
 
         //YoYo.with(Techniques.Landing).duration(1500).repeat(1).playOn(t1);
-        YoYo.with(Techniques.FadeInUp).duration(3500).repeat(1).playOn(t1);
+        YoYo.with(Techniques.FadeInUp).duration(3000).repeat(1).playOn(t1);
 //
 }}
