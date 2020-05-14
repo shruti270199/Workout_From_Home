@@ -9,15 +9,18 @@
     android:background="@drawable/background">
 
     <TextView
-        android:layout_width="150sp"
+        android:layout_width="200sp"
         android:layout_height="wrap_content"
         android:layout_marginTop="80dp"
         android:id="@+id/txt1"
         android:text="@string/splash_screen"
         android:fontFamily="@font/averia_libre_bold"
         android:textColor="#F23B5F"
-        android:textSize="35sp"
+        android:textSize="45sp"
         android:textAlignment="center"
         android:layout_centerHorizontal="true"/>
+
+
+
 
 </RelativeLayout>

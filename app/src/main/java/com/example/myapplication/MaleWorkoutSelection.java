@@ -40,14 +40,16 @@ public class MaleWorkoutSelection extends AppCompatActivity implements AdapterVi
 
     @Override
     public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
-        if(position != 0)
+        if(position == 0)
         {
-           String text = parent.getItemAtPosition(position).toString();
-            Toast.makeText(parent.getContext(), text, Toast.LENGTH_SHORT).show();
+           //String text = parent.getItemAtPosition(position).toString();
+            Toast.makeText(parent.getContext(), "Select an option", Toast.LENGTH_SHORT).show();
         }
-       // Toast.makeText(parent.getContext(), exercise_type + gender, Toast.LENGTH_SHORT).show();
-//        String text = parent.getItemAtPosition(position).toString();
-//        Toast.makeText(parent.getContext(), text, Toast.LENGTH_SHORT).show();
+        if(position == 1)
+        {
+            Intent i4 = new Intent(MaleWorkoutSelection.this,Main4Activity.class);
+            startActivity(i4);
+        }
     }
 
     @Override
