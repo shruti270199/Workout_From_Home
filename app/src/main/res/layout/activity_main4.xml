@@ -1,45 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.recyclerview.widget.RecyclerView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".Main4Activity"
-    android:id="@+id/RelativeLayout1"
+    android:id="@+id/recyclerview"
     android:background="@drawable/background">
 
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="75dp"
-        android:layout_marginTop="20dp"
-        android:layout_centerHorizontal="true"
-        android:layout_marginLeft="25dp"
-        android:text="Female Workout"
-        android:textSize="40sp"
-        android:fontFamily="@font/averia_libre_bold"
-        android:textAlignment="center"
-        android:gravity="bottom"
-        android:textColor="#ffffff"
-        android:id="@+id/text5"/>
 
-
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_marginTop="15dp"
-        android:layout_below="@+id/text5"
-        android:layout_height="600dp">
-
-
-        <ListView
-            android:layout_width="match_parent"
-            android:layout_marginTop="50dp"
-            android:layout_height="600dp"
-            android:id="@+id/ListView2">
-        </ListView>
-
-
-    </LinearLayout>
-
-
-</RelativeLayout>
+</androidx.recyclerview.widget.RecyclerView>

@@ -50,6 +50,16 @@ public class MaleWorkoutSelection extends AppCompatActivity implements AdapterVi
             Intent i4 = new Intent(MaleWorkoutSelection.this,Main4Activity.class);
             startActivity(i4);
         }
+        if(position == 2)
+        {
+            Intent i4 = new Intent(MaleWorkoutSelection.this,Main4Activity.class);
+            startActivity(i4);
+        }
+        if(position == 3)
+        {
+            Intent i4 = new Intent(MaleWorkoutSelection.this,Main4Activity.class);
+            startActivity(i4);
+        }
     }
 
     @Override
