@@ -49,20 +49,29 @@ public class MaleWorkoutSelection extends AppCompatActivity implements AdapterVi
            //String text = parent.getItemAtPosition(position).toString();
             Toast.makeText(parent.getContext(), "Select an option", Toast.LENGTH_SHORT).show();
         }
-        if(position == 1)
+        else if(position == 1)
         {
-            Intent i4 = new Intent(MaleWorkoutSelection.this,Main4Activity.class);
-            startActivity(i4);
+            Intent i = new Intent(MaleWorkoutSelection.this,Exercise.class);
+            i.putExtra("gender",gender);
+            i.putExtra("exercise type",exercise_type);
+            i.putExtra("level",1);
+            startActivity(i);
         }
-        if(position == 2)
+        else if(position == 2)
         {
-            Intent i4 = new Intent(MaleWorkoutSelection.this,Main4Activity.class);
-            startActivity(i4);
+            Intent i = new Intent(MaleWorkoutSelection.this,Exercise.class);
+            i.putExtra("gender",gender);
+            i.putExtra("exercise type",exercise_type);
+            i.putExtra("level",2);
+            startActivity(i);
         }
-        if(position == 3)
+        else if(position == 3)
         {
-            Intent i4 = new Intent(MaleWorkoutSelection.this,Main4Activity.class);
-            startActivity(i4);
+            Intent i = new Intent(MaleWorkoutSelection.this,Exercise.class);
+            i.putExtra("gender",gender);
+            i.putExtra("exercise type",exercise_type);
+            i.putExtra("level",3);
+            startActivity(i);
         }
     }
 
