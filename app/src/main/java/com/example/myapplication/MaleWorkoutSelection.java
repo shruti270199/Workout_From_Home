@@ -1,9 +1,13 @@
 package com.example.myapplication;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.view.Menu;
+import android.view.MenuInflater;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
@@ -65,5 +69,27 @@ public class MaleWorkoutSelection extends AppCompatActivity implements AdapterVi
     @Override
     public void onNothingSelected(AdapterView<?> parent) {
 
+    }
+
+
+    public boolean onCreateOptionsMenu(Menu menu) {
+        MenuInflater inflater = getMenuInflater();
+        inflater.inflate(R.menu.menu, menu);
+        return true;
+
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(@NonNull MenuItem item) {
+        switch (item.getItemId()){
+            case R.id.bmi_calc:
+                Intent i0 = new Intent(MaleWorkoutSelection.this, BMI.class);
+                startActivity(i0);
+
+            case R.id.feedback:
+                Intent i1 = new Intent(MaleWorkoutSelection.this, Feedback.class);
+                startActivity(i1);
+        }
+        return super.onOptionsItemSelected(item);
     }
 }
