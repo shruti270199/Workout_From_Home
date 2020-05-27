@@ -57,6 +57,8 @@ public class Main4Activity extends AppCompatActivity {
             descriptionText = view.findViewById(R.id.grid_text2);
             gridImages = view.findViewById(R.id.grid_img);
 
+
+
             //setText and setImageResource
             return view;
 
