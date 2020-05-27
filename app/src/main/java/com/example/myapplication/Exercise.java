@@ -1,11 +1,15 @@
 package com.example.myapplication;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 import android.transition.TransitionSet;
+import android.view.Menu;
+import android.view.MenuInflater;
+import android.view.MenuItem;
 import android.view.SurfaceControl;
 import android.view.View;
 import android.widget.Button;
@@ -39,7 +43,7 @@ public class Exercise extends AppCompatActivity {
 
         image = findViewById(R.id.ex_img);
         description = findViewById(R.id.description);
-        timer = findViewById(R.id.timer_text);
+        //timer = findViewById(R.id.timer_text);
 
 
         Intent intent = getIntent();
@@ -95,5 +99,27 @@ public class Exercise extends AppCompatActivity {
             }
 
         }
+    }
+
+
+    public boolean onCreateOptionsMenu(Menu menu) {
+        MenuInflater inflater = getMenuInflater();
+        inflater.inflate(R.menu.menu, menu);
+        return true;
+
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(@NonNull MenuItem item) {
+        switch (item.getItemId()){
+            case R.id.bmi_calc:
+                Intent i0 = new Intent(Exercise.this, BMI.class);
+                startActivity(i0);
+
+            case R.id.feedback:
+                Intent i1 = new Intent(Exercise.this, Feedback.class);
+                startActivity(i1);
+        }
+        return super.onOptionsItemSelected(item);
     }
 }
