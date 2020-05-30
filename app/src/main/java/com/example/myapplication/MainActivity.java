@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void run() {
 
-                Intent i = new Intent(MainActivity.this, Timer.class);
+                Intent i = new Intent(MainActivity.this, Main2Activity.class);
                 startActivity(i);
                 finish();
             }
