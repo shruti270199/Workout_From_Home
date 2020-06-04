@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.os.CountDownTimer;
 import android.os.Handler;
 import android.transition.TransitionSet;
 import android.view.Menu;
@@ -26,8 +27,9 @@ public class Exercise extends AppCompatActivity {
     int gender,level,exercise_no;
     String exercise_type;
 
-    TextView description , timer;
+    TextView description , timer_text;
     ImageView image;
+    Button start_timer,reset_timer;
 
     Integer[] img1={
             R.drawable.abs_easy_hindupushup,
@@ -87,6 +89,16 @@ public class Exercise extends AppCompatActivity {
         level = intent.getIntExtra("level",1);
         exercise_no = intent.getIntExtra("ex_num",1);
 
+        timer_text = findViewById(R.id.timer_txt);
+        start_timer = findViewById(R.id.timer_start);
+        start_timer.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View v) {
+                long maxTimeInMilliseconds = 30000;// in your case
+                startTimer(maxTimeInMilliseconds, 1000);
+            }
+        });
+
         if(gender==1)
         {
             if(exercise_type.equals("Abs workout"))
@@ -142,6 +154,24 @@ public class Exercise extends AppCompatActivity {
         inflater.inflate(R.menu.menu, menu);
         return true;
 
+    }
+
+    public void startTimer(final long finish, long tick) {
+        CountDownTimer t;
+        t = new CountDownTimer(finish, tick) {
+
+            public void onTick(long millisUntilFinished) {
+                long remainedSecs = millisUntilFinished / 1000;
+                timer_text.setText("" + (remainedSecs / 60) + ":" + (remainedSecs % 60));// manage it accordign to you
+            }
+
+            public void onFinish() {
+                timer_text.setText("00:00:00");
+                Toast.makeText(Exercise.this, "Finish", Toast.LENGTH_SHORT).show();
+
+                cancel();
+            }
+        }.start();
     }
 
     @Override
