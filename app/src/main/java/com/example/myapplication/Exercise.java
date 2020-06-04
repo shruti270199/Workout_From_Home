@@ -165,7 +165,7 @@ public class Exercise extends AppCompatActivity {
 
     }
 
-    public void startTimer(final long finish, long tick) {
+    public void32w startTimer(final long finish, long tick) {
         CountDownTimer t;
         t = new CountDownTimer(finish, tick) {
 
