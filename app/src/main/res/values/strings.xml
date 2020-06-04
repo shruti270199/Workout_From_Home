@@ -13,12 +13,51 @@
                                     Home
     </string>
 
+    <string name="male_abs_easy_hindupushup"> Hindu Push-ups </string>
+    <string name="male_abs_easy_hipraises">Hip-raises</string>
+    <string name="male_abs_easy_inchworm">Inchworm</string>
+    <string name="male_abs_easy_plank">Planks</string>
+    <string name="male_abs_medium_alternate_heal_touches">Alternate Heal Touches</string>
+    <string name="male_abs_medium_bench_leg_pull_in">Bench Leg Pull-in</string>
+    <string name="male_abs_medium_jackknife_situps">Jackknife Sit-ups</string>
+    <string name="male_abs_medium_sideplank">Side Planks</string>
+    <string name="male_abs_hard_dbl_side_jack"></string>
+    <string name="male_abs_hard_dumbbell_side_bend">Side Bend</string>
+    <string name="male_abs_hard_dumbell_chop">Woodchop</string>
+    <string name="male_abs_hard_russian_twist">Russian twist</string>
+    <string name="male_up_easy_bicep_curl">Bicep Curl</string>
+    <string name="male_up_easy_tricep">Triceps</string>
+    <string name="male_up_easy_triceps_extension">Tricep Extensio</string>
+    <string name="male_up_medium_chinups">Chinups</string>
+    <string name="male_up_medium_close_grip_pull_up">Close Grip Pull-ups</string>
+    <string name="male_up_hard_hammer_grip_pull_up_n">Hammer Grip Pull-ups</string>
+    <string name="male_up_hard_wide_grip_pull_ups">Wide Grip Pull-ups</string>
+    <string name="male_fb_easy_bodyweight_squats">Bodyweight Squats</string>
+    <string name="male_fb_easy_knee_push_ups">Knee Push-ups</string>
+    <string name="male_fb_easy_planks_n">Plankns</string>
+    <string name="male_fb_easy_jumping_jacks">Jumping Jacks</string>
+    <string name="male_fb_medium_crunches">Crunches</string>
+    <string name="male_fb_medium_donkey_kicks">Donkey Kicks</string>
+    <string name="male_fb_medium_mountain_climbers">Mountain Climbers</string>
+    <string name="male_fb_hard_burpees">Burpees</string>
+    <string name="male_fb_hard_clap_push_ups">Clap Push-ups</string>
+    <string name="male_fb_hard_split_alternating_squat_jumps">Alternating Squat Jumps</string>
+    <string name="male_lb_easy_calf_raises">Calf Raises</string>
+    <string name="male_lb_easy_wall_sit">Wall Sits</string>
+    <string name="male_lb_easy_pilates">Pilates</string>
+    <string name="male_lb_medium_jump_squats">Jump Squats</string>
+    <string name="male_lb_medium_mountain_climbers">Mountain Climbers</string>
+    <string name="male_lb_medium_walking_lunge">Walking Lunge</string>
+    <string name="male_lb_hard_dumbell_squats">Squats</string>
+    <string name="male_lb_hard_swiss_ball_leg_lifts">Swiss Ball Leg Lift</string>
+    <string name="male_lb_hard_lunge_twist">Lunge Twists</string>
+
     <string name="abs_easy_hindupushup">
         the Hindu pushup has more of a flow to standard pushups. But it targets the same muscles as a regular pushup: the chest, triceps, biceps, shoulders, and the core.
     </string>
 
     <string name="abs_easy_hipraises">
-        By using the hip raise, you can activate your glutes once again, and build more muscle all over. Plus, because your glutes are such a big muscle group, they are also one of your body's top calorie burners. The upshot: The hip raise can ultimately help you burn more fat, too.
+        By using the hip raise, you can activate your glutes once again, and build more muscle all over. Plus, because your glutes are such a big muscle group, they are also one of your body top calorie burners. The upshot: The hip raise can ultimately help you burn more fat, too.
     </string>
 
     <string name="abs_easy_inchworm">
@@ -158,7 +197,7 @@
     </string>
 
     <string name="lb_hard_swiss_ball_leg_lifts">
-        This hits your lower-body targets (hips, thighs, and butt) and works them—hard. You think it's just going to work the leg you're raising and lowering, but at the end you feel it more in the leg that didn't move. It is a great example of stabilizing muscles at work.
+        This hits your lower-body targets (hips, thighs, and butt) and works them—hard. You think it is just going to work the leg you are raising and lowering, but at the end you feel it more in the leg that did not move. It is a great example of stabilizing muscles at work.
     </string>
 
     <string name="lb_hard_lunge_twist">
