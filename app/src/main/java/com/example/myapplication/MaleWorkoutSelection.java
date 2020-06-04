@@ -56,6 +56,7 @@ public class MaleWorkoutSelection extends AppCompatActivity implements AdapterVi
             i.putExtra("exercise type",exercise_type);
             i.putExtra("level",1);
             startActivity(i);
+            finish();
         }
         else if(position == 2)
         {
@@ -64,6 +65,7 @@ public class MaleWorkoutSelection extends AppCompatActivity implements AdapterVi
             i.putExtra("exercise type",exercise_type);
             i.putExtra("level",2);
             startActivity(i);
+            finish();
         }
         else if(position == 3)
         {
@@ -72,6 +74,7 @@ public class MaleWorkoutSelection extends AppCompatActivity implements AdapterVi
             i.putExtra("exercise type",exercise_type);
             i.putExtra("level",3);
             startActivity(i);
+            finish();
         }
     }
 
