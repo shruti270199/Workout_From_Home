@@ -97,6 +97,7 @@
             android:id="@+id/next_exe"
             android:background="@drawable/ic_skip_next_black_24dp"
             android:layout_marginLeft="225dp"/>
+
     </RelativeLayout>
 </ScrollView>
 
