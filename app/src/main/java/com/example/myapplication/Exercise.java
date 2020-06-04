@@ -82,6 +82,7 @@ public class Exercise extends AppCompatActivity {
             R.drawable.lb_hard_lunge_twist,
     };
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
