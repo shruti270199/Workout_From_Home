@@ -115,10 +115,11 @@ public class Exercise extends AppCompatActivity {
             case R.id.bmi_calc:
                 Intent i0 = new Intent(Exercise.this, BMI.class);
                 startActivity(i0);
-
+                break;
             case R.id.feedback:
                 Intent i1 = new Intent(Exercise.this, Feedback.class);
                 startActivity(i1);
+                break;
         }
         return super.onOptionsItemSelected(item);
     }

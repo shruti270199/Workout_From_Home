@@ -94,10 +94,11 @@ public class MaleWorkoutSelection extends AppCompatActivity implements AdapterVi
             case R.id.bmi_calc:
                 Intent i0 = new Intent(MaleWorkoutSelection.this, BMI.class);
                 startActivity(i0);
-
+                break;
             case R.id.feedback:
                 Intent i1 = new Intent(MaleWorkoutSelection.this, Feedback.class);
                 startActivity(i1);
+                break;
         }
         return super.onOptionsItemSelected(item);
     }

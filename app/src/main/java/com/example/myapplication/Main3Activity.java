@@ -92,10 +92,11 @@ public class Main3Activity extends AppCompatActivity implements AdapterView.OnIt
             case R.id.bmi_calc:
                 Intent i0 = new Intent(Main3Activity.this, BMI.class);
                 startActivity(i0);
-
+                break;
             case R.id.feedback:
                 Intent i1 = new Intent(Main3Activity.this, Feedback.class);
                 startActivity(i1);
+                break;
         }
         return super.onOptionsItemSelected(item);
     }
