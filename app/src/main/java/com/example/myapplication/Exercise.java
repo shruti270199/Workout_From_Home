@@ -31,19 +31,31 @@ public class Exercise extends AppCompatActivity {
     ImageView image;
     Button start_timer,reset_timer;
 
-    Integer[] img1={
-            R.drawable.abs_easy_hindupushup,
-            R.drawable.abs_easy_hipraises,
-            R.drawable.abs_easy_inchworm,
-            R.drawable.abs_easy_plank,
-            R.drawable.abs_medium_alternate_heal_touches,
-            R.drawable.abs_medium_bench_leg_pull_in,
-            R.drawable.abs_medium_jackknife_situps,
-            R.drawable.abs_medium_sideplank,
-            R.drawable.abs_hard_dbl_side_jack,
-            R.drawable.abs_hard_dumbbell_side_bend,
-            R.drawable.abs_hard_dumbell_chop,
-            R.drawable.abs_hard_russian_twist,
+        Integer[] male_abs ={
+                R.drawable.abs_easy_hindupushup,
+                R.drawable.abs_easy_hipraises,
+                R.drawable.abs_easy_inchworm,
+                R.drawable.abs_easy_plank,
+                R.drawable.abs_medium_alternate_heal_touches,
+                R.drawable.abs_medium_bench_leg_pull_in,
+                R.drawable.abs_medium_jackknife_situps,
+                R.drawable.abs_medium_sideplank,
+                R.drawable.abs_hard_dbl_side_jack,
+                R.drawable.abs_hard_dumbbell_side_bend,
+                R.drawable.abs_hard_dumbell_chop,
+                R.drawable.abs_hard_russian_twist,
+        };
+
+        Integer[] male_up = {
+                R.drawable.up_easy_bicep_curl,
+                R.drawable.up_easy_tricep,
+                R.drawable.up_easy_triceps_extension,
+                R.drawable.up_medium_chinups,
+                R.drawable.up_medium_close_grip_pull_up,
+                R.drawable.up_hard_hammer_grip_pull_up_n,
+                R.drawable.up_hard_wide_grip_pull_ups,
+        };
+    Integer[] male_lb ={
             R.drawable.fb_easy_bodyweight_squats,
             R.drawable.fb_easy_knee_push_ups,
             R.drawable.fb_easy_planks_n,
@@ -54,6 +66,11 @@ public class Exercise extends AppCompatActivity {
             R.drawable.fb_hard_burpees,
             R.drawable.fb_hard_clap_push_ups,
             R.drawable.fb_hard_split_alternating_squat_jumps,
+
+
+    };
+
+    Integer[] male_fb ={
             R.drawable.lb_easy_calf_raises,
             R.drawable.lb_easy_wall_sit,
             R.drawable.lb_easy_pilates,
@@ -63,14 +80,6 @@ public class Exercise extends AppCompatActivity {
             R.drawable.lb_hard_dumbell_squats,
             R.drawable.lb_hard_swiss_ball_leg_lifts,
             R.drawable.lb_hard_lunge_twist,
-            R.drawable.up_easy_bicep_curl,
-            R.drawable.up_easy_tricep,
-            R.drawable.up_easy_triceps_extension,
-            R.drawable.up_medium_chinups,
-            R.drawable.up_medium_close_grip_pull_up,
-            R.drawable.up_hard_hammer_grip_pull_up_n,
-            R.drawable.up_hard_wide_grip_pull_ups,
-
     };
 
     @Override
@@ -104,22 +113,22 @@ public class Exercise extends AppCompatActivity {
             if(exercise_type.equals("Abs workout"))
             {
                 Toast.makeText(getApplicationContext(), "Gender: Male , Abs workout "+level, Toast.LENGTH_SHORT).show();
-                image.setImageResource(img1[0]);
+             //   image.setImageResource(img1[0]);
             }
             else if(exercise_type.equals("Upper Body workout"))
             {
                 Toast.makeText(getApplicationContext(), "Gender: Male , Upper Body workout "+level, Toast.LENGTH_SHORT).show();
-                image.setImageResource(img1[0]);
+              //  image.setImageResource(img1[0]);
             }
             else if(exercise_type.equals("Lower Body workout"))
             {
                 Toast.makeText(getApplicationContext(), "Gender: Male , Lower Body workout "+level, Toast.LENGTH_SHORT).show();
-                image.setImageResource(img1[0]);
+              //  image.setImageResource(img1[0]);
             }
             else
             {
                 Toast.makeText(getApplicationContext(), "Gender: Male , Full Body workout "+level, Toast.LENGTH_SHORT).show();
-                image.setImageResource(img1[0]);
+              //  image.setImageResource(img1[0]);
             }
         }
         else
