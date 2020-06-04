@@ -13,5 +13,194 @@
                                     Home
     </string>
 
+    <string name="male_abs_easy_hindupushup"> Hindu Push-ups </string>
+    <string name="male_abs_easy_hipraises">Hip-raises</string>
+    <string name="male_abs_easy_inchworm">Inchworm</string>
+    <string name="male_abs_easy_plank">Planks</string>
+    <string name="male_abs_medium_alternate_heal_touches">Alternate Heal Touches</string>
+    <string name="male_abs_medium_bench_leg_pull_in">Bench Leg Pull-in</string>
+    <string name="male_abs_medium_jackknife_situps">Jackknife Sit-ups</string>
+    <string name="male_abs_medium_sideplank">Side Planks</string>
+    <string name="male_abs_hard_dbl_side_jack"></string>
+    <string name="male_abs_hard_dumbbell_side_bend">Side Bend</string>
+    <string name="male_abs_hard_dumbell_chop">Woodchop</string>
+    <string name="male_abs_hard_russian_twist">Russian twist</string>
+    <string name="male_up_easy_bicep_curl">Bicep Curl</string>
+    <string name="male_up_easy_tricep">Triceps</string>
+    <string name="male_up_easy_triceps_extension">Tricep Extensio</string>
+    <string name="male_up_medium_chinups">Chinups</string>
+    <string name="male_up_medium_close_grip_pull_up">Close Grip Pull-ups</string>
+    <string name="male_up_hard_hammer_grip_pull_up_n">Hammer Grip Pull-ups</string>
+    <string name="male_up_hard_wide_grip_pull_ups">Wide Grip Pull-ups</string>
+    <string name="male_fb_easy_bodyweight_squats">Bodyweight Squats</string>
+    <string name="male_fb_easy_knee_push_ups">Knee Push-ups</string>
+    <string name="male_fb_easy_planks_n">Plankns</string>
+    <string name="male_fb_easy_jumping_jacks">Jumping Jacks</string>
+    <string name="male_fb_medium_crunches">Crunches</string>
+    <string name="male_fb_medium_donkey_kicks">Donkey Kicks</string>
+    <string name="male_fb_medium_mountain_climbers">Mountain Climbers</string>
+    <string name="male_fb_hard_burpees">Burpees</string>
+    <string name="male_fb_hard_clap_push_ups">Clap Push-ups</string>
+    <string name="male_fb_hard_split_alternating_squat_jumps">Alternating Squat Jumps</string>
+    <string name="male_lb_easy_calf_raises">Calf Raises</string>
+    <string name="male_lb_easy_wall_sit">Wall Sits</string>
+    <string name="male_lb_easy_pilates">Pilates</string>
+    <string name="male_lb_medium_jump_squats">Jump Squats</string>
+    <string name="male_lb_medium_mountain_climbers">Mountain Climbers</string>
+    <string name="male_lb_medium_walking_lunge">Walking Lunge</string>
+    <string name="male_lb_hard_dumbell_squats">Squats</string>
+    <string name="male_lb_hard_swiss_ball_leg_lifts">Swiss Ball Leg Lift</string>
+    <string name="male_lb_hard_lunge_twist">Lunge Twists</string>
 
+    <string name="abs_easy_hindupushup">
+        the Hindu pushup has more of a flow to standard pushups. But it targets the same muscles as a regular pushup: the chest, triceps, biceps, shoulders, and the core.
+    </string>
+
+    <string name="abs_easy_hipraises">
+        By using the hip raise, you can activate your glutes once again, and build more muscle all over. Plus, because your glutes are such a big muscle group, they are also one of your body top calorie burners. The upshot: The hip raise can ultimately help you burn more fat, too.
+    </string>
+
+    <string name="abs_easy_inchworm">
+        The inchworm exercise offers a little bit of everything—it helps strengthen the muscles of your anterior chain (the front half of your body) while stretching the muscles of your posterior chain (the back half of your body). And because it targets your entire body in some capacity, it gets the blood flowing
+    </string>
+
+    <string name="abs_easy_plank">
+         Planks work your core, that means they work basically the whole body, from your pelvic girdle to your shoulder girdle as well as your legs. The plank strengthens your spine, your rhomboids and trapezius, and your abdominal muscles, which naturally result in a strong posture as they grow in strength.
+    </string>
+
+    <string name="abs_medium_alternate_heal_touches">
+        The Abs and obliques are the Primary muscles which are benefited the most by performing the Alternate Heel Touches exercise. Apart from a floor to lay down on, Alternate Heel Touches exercise does not require any equipment.
+    </string>
+
+    <string name="abs_medium_bench_leg_pull_in">
+        The flat bench abdominal leg pull ins target your abdominal muscles (rectus abdominis) and provide minor tension to your hip flexors. This exercise works your lower abs very well, which provides a contrast to most ab exercises that place most of the resistance on the middle and upper abs.
+    </string>
+
+    <string name="abs_medium_jackknife_situps">
+        A jackknife is an abdominal exercise. This exercise is also known as a "V-Up". Jackknife exercises are designed to strengthen the upper and lower abdominal muscles, particularly the transversus abdominis muscle
+    </string>
+
+    <string name="abs_medium_sideplank">
+        The side plank is a great exercise for strengthening the oblique abdominal muscles, which do not get worked during ab exercises such as crunches. You will hold your body on your side in straight position supported only by one arm and the side of one foot.
+    </string>
+
+    <string name="abs_hard_dbl_side_jack">
+        Along with being a good cardio exercise, jumping jacks are also ideal to build stronger muscles. While they are not as good as weights, they are still one of the most effective cardio exercises. Your arms get a good workout and build muscle, as do your glutes, hamstrings, quads, calves.
+    </string>
+
+    <string name="abs_hard_dumbbell_side_bend">
+        Side bends help to increase both strength and flexibility of the low back and the abdominals, supporting the spine and helping to improve posture.
+    </string>
+
+    <string name="abs_hard_dumbell_chop">
+        Your abs and obliques are working overtime as you twist and lift, and the overall movement of the exercise means the core strength benefits created will translate to everyday activities and sports.
+    </string>
+
+    <string name="abs_hard_russian_twist">
+        Tone Your Core, Shoulders, and Hips with a Russian Twist. The Russian twist is a simple and effective way to tone your core, shoulders, and hips. It helps with twisting movements and allows you to quickly change direction.
+    </string>
+
+    <string name="up_easy_bicep_curl">
+        The biceps curl is a highly recognizable weight-training exercise that works the muscles of the upper arm, and to a lesser extent, those of the lower arm. It is a great exercise for seeing results in strength and definition.
+    </string>
+
+    <string name="up_easy_tricep">
+        Working out your triceps helps to build upper body strength and is an essential part of any strength training routine. Strong triceps stabilize your shoulder joint and are important for daily activities and sports such as tennis.
+    </string>
+
+    <string name="up_easy_triceps_extension">
+        Tricep extensions are an excellent exercise to build and shape the upper posterior arm muscles. There are several varieties to try. Whenever you use your arms, your triceps come into action. Building strong arms, including the triceps, can help you become stronger and more functional in your everyday tasks.
+    </string>
+
+    <string name="up_medium_chinups">
+        Chin-ups are one of the most challenging body-weight exercises. Chin-ups can help improve grip strength, posture and appearance, while also helping to strengthen muscles that stabilize the spine.
+    </string>
+
+    <string name="up_medium_close_grip_pull_up">
+        In close grip, you move your hands closer together, which impacts how your shoulder joints move as you perform the exercise. The closer grip also allows you to recruit your biceps and chest muscles more than the wide grip, which means you may be able to complete more repetition
+    </string>
+
+    <string name="up_hard_hammer_grip_pull_up_n">
+        The move also improves your core strength, and it is one of the quickest and easiest ways to leave your entire upper body quivering with fatigue when training at home because a doorframe pull-up bar is the only equipment you need.
+    </string>
+
+    <string name="up_hard_wide_grip_pull_ups">
+        The wide-grip pullup is an upper-body strength movement that targets your back, chest, shoulders, and arms. It also gives your core muscles a pretty fantastic workout.Including wide-grip pullups in your overall fitness routine can help increase your strength in other movements, such as the lat pulldown and shoulder press.
+    </string>
+
+    <string name="fb_easy_bodyweight_squats">
+        The most obvious benefit of squats is building your leg muscles – quadriceps, hamstrings, and calves. These drills also create an anabolic environment, which promotes body-wide muscle building, improving muscle mass. Squats, and all of their variations, are a great exercise for the whole body.
+    </string>
+    
+    <string name="fb_easy_knee_push_ups">
+        Knee push-ups are a valuable alternative to toe push-ups in order to give your chest, shoulders and arms a quality workout, at the same time strengthening the muscles of the core.
+    </string>
+    
+    <string name="fb_easy_planks_n">
+         Planks work your core, that means they work basically the whole body, from your pelvic girdle to your shoulder girdle as well as your legs. The plank strengthens your spine, your rhomboids and trapezius, and your abdominal muscles, which naturally result in a strong posture as they grow in strength.
+    </string>
+    
+    <string name="fb_easy_jumping_jacks">
+        Jumping jacks are an efficient total-body workout that you can do almost anywhere. This exercise is part of what is called plyometrics, or jump training. Plyometrics is a combination of aerobic exercise and resistance work. This type of exercise works your heart, lungs, and muscles at the same time.
+    </string>
+
+    <string name="fb_medium_crunches">
+        Like situps, crunches help you build muscle. But unlike situps, they work only the abdominal muscles. This intense muscle isolation makes them a popular exercise for people trying to get six-pack abs. This also makes them ideal for strengthening your core, which includes your lower back muscles and obliques.
+    </string>
+
+    <string name="fb_medium_donkey_kicks">
+        Donkey kick is a lower body exercise that tones the glutes and isometrically strengthens the hamstrings. begin in quadrupeds ition flex one knee deeper to lift your foot slightly off of the floor. frees. the knee in this position dorsiflex the ankle exhale
+    </string>
+
+    <string name="fb_medium_mountain_climbers">
+        Mountain climbers are great for building cardio endurance, core strength, and agility. You work several different muscle groups with mountain climbers—it is almost like getting a total-body workout with just one exercise
+    </string>
+
+    <string name="fb_hard_burpees">
+        The burpee works your arms, back, chest, core, glutes and legs – you name it, it works it. And burpees also spike your heart rate as much as sprinting for a bus does – one reason it is a firm favourite among the high-intensity interval training (HIIT) crowd
+    </string>
+
+    <string name="fb_hard_clap_push_ups">
+        The clap push-up enhances core stability, essential to your strong stance in the boxing ring. It also builds shoulder mobility, quick reflexes and upper-body strength. You know how plyometrics, or jump training, improves your lower body power
+    </string>
+
+    <string name="fb_hard_split_alternating_squat_jumps">
+        Split alternating squat jumps is a gym work out exercise that targets quadriceps and also involves abs and calves and glutes and hip flexors and hamstrings.
+    </string>
+
+    <string name="lb_easy_calf_raises">
+        The standing calf raise exercise strengthens the muscles in your calves, improves ankle strength and stability, helps with injury prevention, improves athletic performance, aids with balance, and — of course — can build bigger calves over time
+    </string>
+    
+    <string name="lb_easy_wall_sit">
+        Wall sit exercises are great for sculpting the thighs, hips, calves, and lower abs. These exercises are easy on your knees and back and can be done by anyone. Do 20 minutes of wall sit exercises a day to strengthen and tone your calves, quads, hamstrings, glutes, and core and lose belly fat.
+    </string>
+
+    <string name="lb_easy_pilates">
+        Pilates workouts promote strength and balanced muscle development as well as flexibility and increased the range of motion for the joints.
+    </string>
+
+    <string name="lb_medium_jump_squats">
+        Jump squats increase your explosive power, improve upper and lower body strength, and burn calories faster than regular squats. Explosive power gives you the ability to take off faster and move quicker, which athletes in football, tennis, and track and field strive for.
+    </string>
+
+    <string name="lb_medium_mountain_climbers">
+        Mountain climbers are great for building cardio endurance, core strength, and agility. You work several different muscle groups with mountain climbers—it is almost like getting a total-body workout with just one exercise.
+    </string>
+
+    <string name="lb_medium_walking_lunge">
+        Walking lunges can help strengthen the lower body. They can also help stretch out the hamstring and glutes.
+    </string>
+
+    <string name="lb_hard_dumbell_squats">
+        The dumbbell squat targets the quadriceps muscles in the front of the thighs and the gluteus maximus in the buttocks. The hamstrings at the back of the thighs and the soleus in the calves act to stabilize as well. These are all large muscles and the squat exercise builds functional fitness.
+    </string>
+
+    <string name="lb_hard_swiss_ball_leg_lifts">
+        This hits your lower-body targets (hips, thighs, and butt) and works them—hard. You think it is just going to work the leg you are raising and lowering, but at the end you feel it more in the leg that did not move. It is a great example of stabilizing muscles at work.
+    </string>
+
+    <string name="lb_hard_lunge_twist">
+        The lunge with a twist exercise is a great core exercise that builds lower body strength. Performing the lunge while holding and rotating a medicine ball from right to left engages the quads, glutes, and core while improving balance and proprioception, though using this equipment is not required.
+    </string>
 </resources>
