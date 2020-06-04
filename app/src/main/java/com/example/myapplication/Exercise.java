@@ -31,6 +31,8 @@ public class Exercise extends AppCompatActivity {
     ImageView image;
     Button start_timer,reset_timer;
 
+    CountDownTimer t;
+
         Integer[] male_abs ={
                 R.drawable.abs_easy_hindupushup,
                 R.drawable.abs_easy_hipraises,
@@ -100,6 +102,7 @@ public class Exercise extends AppCompatActivity {
 
         timer_text = findViewById(R.id.timer_txt);
         start_timer = findViewById(R.id.timer_start);
+        reset_timer = findViewById(R.id.timer_reset);
         start_timer.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View v) {
@@ -107,6 +110,17 @@ public class Exercise extends AppCompatActivity {
                 startTimer(maxTimeInMilliseconds, 1000);
             }
         });
+        reset_timer.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View v) {
+                t.cancel();
+                timer_text.setText("00:00");
+                //long maxTimeInMilliseconds = 30000;// in your case
+                //startTimer(maxTimeInMilliseconds, 1000);
+            }
+        });
+
+
 
         if(gender==1)
         {
@@ -166,7 +180,7 @@ public class Exercise extends AppCompatActivity {
     }
 
     public void startTimer(final long finish, long tick) {
-        CountDownTimer t;
+        //CountDownTimer t;
         t = new CountDownTimer(finish, tick) {
 
             public void onTick(long millisUntilFinished) {
@@ -175,9 +189,8 @@ public class Exercise extends AppCompatActivity {
             }
 
             public void onFinish() {
-                timer_text.setText("00:00:00");
+                timer_text.setText("00:00");
                 Toast.makeText(Exercise.this, "Finish", Toast.LENGTH_SHORT).show();
-
                 cancel();
             }
         }.start();
