@@ -6,49 +6,88 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.CountDownTimer;
-import android.os.Handler;
-import android.transition.TransitionSet;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
-import android.view.SurfaceControl;
 import android.view.View;
 import android.widget.Button;
-import android.widget.ImageButton;
 import android.widget.ImageView;
-import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
-
-import com.daimajia.androidanimations.library.Techniques;
-import com.daimajia.androidanimations.library.YoYo;
 
 public class Exercise extends AppCompatActivity {
     int gender,level,exercise_no;
     String exercise_type;
     long maxTimeInMilliseconds;
 
-    TextView description , timer_text;
+    TextView description , timer_text , title;
     ImageView image;
     Button start_timer,reset_timer,prev_exer,next_exer;
 
     CountDownTimer t;
 
-    Integer[] male_abs ={
+    Integer[] male_abs_name = {
+            R.string.male_abs_easy_hindupushup,
+            R.string.male_abs_easy_hipraises,
+            //R.string.male_abs_easy_inchworm,
+            //R.string.male_abs_easy_plank,
+            //R.string.male_abs_medium_alternate_heal_touches,
+            R.string.male_abs_medium_bench_leg_pull_in,
+            //R.string.male_abs_medium_jackknife_situps,
+            R.string.male_abs_medium_sideplank,
+            //R.string.male_abs_hard_dbl_side_jack,
+            R.string.male_abs_hard_dumbbell_side_bend,
+            //R.string.male_abs_hard_dumbell_chop,
+            R.string.male_abs_hard_russian_twist,
+    };
+    Integer[] male_abs_description = {
+            R.string.abs_easy_hindupushup,
+            R.string.abs_easy_hipraises,
+            //R.string.abs_easy_inchworm,
+            //R.string.abs_easy_plank,
+            //R.string.abs_medium_alternate_heal_touches,
+            R.string.abs_medium_bench_leg_pull_in,
+            //R.string.male_abs_medium_jackknife_situps,
+            R.string.male_abs_medium_sideplank,
+            //R.string.abs_hard_dbl_side_jack,
+            R.string.abs_hard_dumbbell_side_bend,
+            //R.string.abs_hard_dumbell_chop,
+            R.string.abs_hard_russian_twist,
+    };
+    Integer[] male_abs_image ={
             R.drawable.abs_easy_hindupushup,
-            //R.drawable.abs_easy_hipraises,
+            R.drawable.abs_easy_hipraises,
             //R.drawable.abs_easy_inchworm,
             //R.drawable.abs_easy_plank,
             //R.drawable.abs_medium_alternate_heal_touches,
             R.drawable.abs_medium_bench_leg_pull_in,
             //R.drawable.abs_medium_jackknife_situps,
             R.drawable.abs_medium_sideplank,
-            R.drawable.abs_hard_dbl_side_jack,
+            //R.drawable.abs_hard_dbl_side_jack,
             R.drawable.abs_hard_dumbbell_side_bend,
             //R.drawable.abs_hard_dumbell_chop,
             R.drawable.abs_hard_russian_twist,
     };
-    Integer[] male_up = {
+
+    Integer[] male_up_name = {
+            R.string.male_up_easy_bicep_curl,
+            R.string.male_up_easy_tricep,
+            R.string.male_up_easy_triceps_extension,
+            R.string.male_up_hard_wide_grip_pull_ups,
+            R.string.male_up_medium_chinups,
+            R.string.male_up_medium_close_grip_pull_up,
+            R.string.male_up_hard_hammer_grip_pull_up_n,
+    };
+    Integer[] male_up_description = {
+            R.string.up_easy_bicep_curl,
+            R.string.up_easy_tricep,
+            R.string.up_easy_triceps_extension,
+            R.string.up_hard_wide_grip_pull_ups,
+            R.string.up_medium_chinups,
+            R.string.up_medium_close_grip_pull_up,
+            R.string.up_hard_hammer_grip_pull_up_n,
+    };
+    Integer[] male_up_image = {
             R.drawable.up_easy_bicep_curl,
             R.drawable.up_easy_tricep,
             R.drawable.up_easy_triceps_extension,
@@ -58,7 +97,21 @@ public class Exercise extends AppCompatActivity {
             R.drawable.up_hard_hammer_grip_pull_up_n,
 
     };
-    Integer[] male_lb ={
+
+
+    Integer[] male_lb_name ={
+            R.string.male_fb_easy_bodyweight_squats,
+            R.string.male_fb_easy_knee_push_ups,
+            //R.string.male_fb_easy_planks_n,
+            R.string.male_fb_easy_jumping_jacks,
+            //R.string.male_fb_medium_crunches,
+            //R.string.male_fb_medium_donkey_kicks,
+            //R.string.male_fb_medium_mountain_climbers,
+            R.string.male_fb_hard_burpees,
+            R.string.male_fb_hard_clap_push_ups,
+            R.string.male_fb_hard_split_alternating_squat_jumps,
+    };
+    Integer[] male_lb_image = {
             R.drawable.fb_easy_bodyweight_squats,
             R.drawable.fb_easy_knee_push_ups,
             //R.drawable.fb_easy_planks_n,
@@ -70,8 +123,31 @@ public class Exercise extends AppCompatActivity {
             R.drawable.fb_hard_clap_push_ups,
             R.drawable.fb_hard_split_alternating_squat_jumps,
     };
+    Integer[] male_lb_description ={
+            R.string.fb_easy_bodyweight_squats,
+            R.string.fb_easy_knee_push_ups,
+            //R.string.fb_easy_planks_n,
+            R.string.fb_easy_jumping_jacks,
+            //R.string.fb_medium_crunches,
+            //R.string.fb_medium_donkey_kicks,
+            //R.string.fb_medium_mountain_climbers,
+            R.string.fb_hard_burpees,
+            R.string.fb_hard_clap_push_ups,
+            R.string.fb_hard_split_alternating_squat_jumps,
+    };
 
-    Integer[] male_fb ={
+    Integer[] male_fb_name ={
+            R.string.male_lb_easy_calf_raises,
+            R.string.male_lb_easy_wall_sit,
+            //R.string.male_lb_easy_pilates,
+            R.string.male_lb_medium_jump_squats,
+            R.string.male_lb_medium_mountain_climbers,
+            R.string.male_lb_medium_walking_lunge,
+            R.string.male_lb_hard_dumbell_squats,
+            R.string.male_lb_hard_swiss_ball_leg_lifts,
+            //R.string.male_lb_hard_lunge_twist,
+    };
+    Integer[] male_fb_image ={
             R.drawable.lb_easy_calf_raises,
             R.drawable.lb_easy_wall_sit,
             //R.drawable.lb_easy_pilates,
@@ -82,6 +158,17 @@ public class Exercise extends AppCompatActivity {
             R.drawable.lb_hard_swiss_ball_leg_lifts,
             //R.drawable.lb_hard_lunge_twist,
     };
+    Integer[] male_fb_description ={
+            R.string.lb_easy_calf_raises,
+            R.string.lb_easy_wall_sit,
+            //R.string.lb_easy_pilates,
+            R.string.lb_medium_jump_squats,
+            R.string.lb_medium_mountain_climbers,
+            R.string.lb_medium_walking_lunge,
+            R.string.lb_hard_dumbell_squats,
+            R.string.lb_hard_swiss_ball_leg_lifts,
+            //R.string.lb_hard_lunge_twist,
+    };
 
 
     @Override
@@ -89,6 +176,7 @@ public class Exercise extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_exercise);
 
+        title = findViewById(R.id.final_txt1);
         image = findViewById(R.id.ex_img);
         description = findViewById(R.id.description);
 
@@ -155,7 +243,7 @@ public class Exercise extends AppCompatActivity {
                 }
                 else if(exercise_no==1)
                 {
-                    i = new Intent(Exercise.this,MaleWorkoutSelection.class);
+                    i = new Intent(Exercise.this,Main3Activity.class);
                 }
                 startActivity(i);
                 finish();
@@ -180,27 +268,31 @@ public class Exercise extends AppCompatActivity {
         {
             if(exercise_type.equals("Abs workout"))
             {
-                Toast.makeText(getApplicationContext(), "Gender: Male , Abs workout "+level+" "+exercise_no, Toast.LENGTH_SHORT).show();
-                image.setImageResource(male_abs[exercise_no]); // set image
-                //description.setText(); // set description
+                //Toast.makeText(getApplicationContext(), "Gender: Male , Abs workout "+level+" "+exercise_no, Toast.LENGTH_SHORT).show();
+                title.setText(male_abs_name[exercise_no]);
+                image.setImageResource(male_abs_image[exercise_no]); // set image
+                description.setText(male_abs_description[exercise_no]); // set description
             }
             else if(exercise_type.equals("Upper Body workout"))
             {
-                Toast.makeText(getApplicationContext(), "Gender: Male , Upper Body workout "+level+" "+exercise_no, Toast.LENGTH_SHORT).show();
-                image.setImageResource(male_up[exercise_no]); // set image
-                //description.setText(); // set description
+                //Toast.makeText(getApplicationContext(), "Gender: Male , Upper Body workout "+level+" "+exercise_no, Toast.LENGTH_SHORT).show();
+                title.setText(male_up_name[exercise_no]);
+                image.setImageResource(male_up_image[exercise_no]); // set image
+                description.setText(male_up_description[exercise_no]); // set description
             }
             else if(exercise_type.equals("Lower Body workout"))
             {
-                Toast.makeText(getApplicationContext(), "Gender: Male , Lower Body workout "+level+" "+exercise_no, Toast.LENGTH_SHORT).show();
-                image.setImageResource(male_lb[exercise_no]); // set image
-                //description.setText(); // set description
+                //Toast.makeText(getApplicationContext(), "Gender: Male , Lower Body workout "+level+" "+exercise_no, Toast.LENGTH_SHORT).show();
+                title.setText(male_lb_name[exercise_no]);
+                image.setImageResource(male_lb_image[exercise_no]); // set image
+                description.setText(male_lb_description[exercise_no]); // set description
             }
             else
             {
-                Toast.makeText(getApplicationContext(), "Gender: Male , Full Body workout "+level+" "+exercise_no, Toast.LENGTH_SHORT).show();
-                image.setImageResource(male_fb[exercise_no]); // set image
-                //description.setText(); // set description
+                //Toast.makeText(getApplicationContext(), "Gender: Male , Full Body workout "+level+" "+exercise_no, Toast.LENGTH_SHORT).show();
+                title.setText(male_fb_name[exercise_no]);
+                image.setImageResource(male_fb_image[exercise_no]); // set image
+                description.setText(male_fb_description[exercise_no]); // set description
             }
         }
         else
