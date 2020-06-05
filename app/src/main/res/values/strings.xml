@@ -21,14 +21,10 @@
     <string name="male_abs_medium_bench_leg_pull_in">Bench Leg Pull-in</string>
     <string name="male_abs_medium_jackknife_situps">Jackknife Sit-ups</string>
     <string name="male_abs_medium_sideplank">Side Planks</string>
-    <string name="male_abs_hard_dbl_side_jack"></string>
     <string name="male_abs_hard_dumbbell_side_bend">Side Bend</string>
-    <string name="male_abs_hard_dumbell_chop">Woodchop</string>
     <string name="male_abs_hard_russian_twist">Russian twist</string>
-    <string name="male_up_easy_bicep_curl">Bicep Curl</string>
     <string name="male_up_easy_tricep">Triceps</string>
     <string name="male_up_easy_triceps_extension">Tricep Extensio</string>
-    <string name="male_up_medium_chinups">Chinups</string>
     <string name="male_up_medium_close_grip_pull_up">Close Grip Pull-ups</string>
     <string name="male_up_hard_hammer_grip_pull_up_n">Hammer Grip Pull-ups</string>
     <string name="male_up_hard_wide_grip_pull_ups">Wide Grip Pull-ups</string>
@@ -49,7 +45,6 @@
     <string name="male_lb_medium_mountain_climbers">Mountain Climbers</string>
     <string name="male_lb_medium_walking_lunge">Walking Lunge</string>
     <string name="male_lb_hard_dumbell_squats">Squats</string>
-    <string name="male_lb_hard_swiss_ball_leg_lifts">Swiss Ball Leg Lift</string>
     <string name="male_lb_hard_lunge_twist">Lunge Twists</string>
 
     <string name="abs_easy_hindupushup">
@@ -146,16 +141,6 @@
         The side plank is a great exercise for strengthening the oblique abdominal muscles.
     </string>
 
-    <string name="abs_hard_dbl_side_jack">
-        How to:
-        1. Lie on your side with your right leg on top of your left.
-        2. Put your right hand behind your head, elbow flared out, and the other on the floor in front of you for balance.
-        3. Contract your obliques to bring your right leg and elbow together, then slowly lower.
-        4. Perform all your reps on one side before swapping.
-
-        Jumping jacks are also ideal to build stronger muscles.
-    </string>
-
     <string name="abs_hard_dumbbell_side_bend">
         How to:
         1. Stand with feet approximately shoulder width apart.
@@ -166,52 +151,98 @@
         Side bends help to increase both strength and flexibility of the low back and the abdominals, supporting the spine and helping to improve posture.
     </string>
 
-    <string name="abs_hard_dumbell_chop">
-        Your abs and obliques are working overtime as you twist and lift, and the overall movement of the exercise means the core strength benefits created will translate to everyday activities and sports.
-    </string>
-
     <string name="abs_hard_russian_twist">
-        Tone Your Core, Shoulders, and Hips with a Russian Twist. The Russian twist is a simple and effective way to tone your core, shoulders, and hips. It helps with twisting movements and allows you to quickly change direction.
-    </string>
+        How to:
+        1. Sit on your sit bones as you lift your feet from the floor, keeping your knees bent.
+        2. Elongate and straighten your spine at a 45-degree angle from the floor, creating a V shape with your torso and thighs.
+        3. Reach your arms straight out in front, interlacing your fingers or clasping your hands together.
+        4. Use your abdominals to twist to the right, then back to center, and then to the left.
+        5. This is 1 repetition. Do 2 to 3 sets of 8 to 16 repetitions.
 
-    <string name="up_easy_bicep_curl">
-        The biceps curl is a highly recognizable weight-training exercise that works the muscles of the upper arm, and to a lesser extent, those of the lower arm. It is a great exercise for seeing results in strength and definition.
+        The Russian twist is a simple and effective way to tone your core, shoulders, and hips.
     </string>
 
     <string name="up_easy_tricep">
-        Working out your triceps helps to build upper body strength and is an essential part of any strength training routine. Strong triceps stabilize your shoulder joint and are important for daily activities and sports such as tennis.
+        How to:
+        1. Sit on the edge of the chair and grip the edge next to your hips. Your fingers should be pointed at your feet.
+        2. Press into your palms to lift your body and slide forward just far enough that your behind clears the edge of the chair.
+        3. Lower yourself until your elbows are bent between 45 and 90 degrees.
+        4. Slowly push yourself back up to the start position and repeat.
+        5. Begin with 10 repetitions and work up to 25 repetitions over several weeks.
+
+        Working out your triceps helps to build upper body strength and is an essential part of any strength training routine.
     </string>
 
     <string name="up_easy_triceps_extension">
-        Tricep extensions are an excellent exercise to build and shape the upper posterior arm muscles. There are several varieties to try. Whenever you use your arms, your triceps come into action. Building strong arms, including the triceps, can help you become stronger and more functional in your everyday tasks.
-    </string>
+        How to:
+        1. Stands with your feet shoulder width apart.
+        2. Grasp the weight with both hands and place behind your head, aiming for between your shoulder blades
+        3. Lift your arms so they’re straight above your head, making sure your elbows don’t flare outward too much
+        4. Aim for 4 sets of 8 -12 reps.
 
-    <string name="up_medium_chinups">
-        Chin-ups are one of the most challenging body-weight exercises. Chin-ups can help improve grip strength, posture and appearance, while also helping to strengthen muscles that stabilize the spine.
+        Tricep extensions are an excellent exercise to build and shape the upper posterior arm muscles.
     </string>
 
     <string name="up_medium_close_grip_pull_up">
-        In close grip, you move your hands closer together, which impacts how your shoulder joints move as you perform the exercise. The closer grip also allows you to recruit your biceps and chest muscles more than the wide grip, which means you may be able to complete more repetition
+        How to:
+        1. Using a pronated grip, grasp the pull bar with a shoulder width grip.
+        2. Take a deep breath, squeeze your glutes and brace your abs.
+        3. Depress the shoulder blades and then drive the elbows straight down to the floor while activating the lats.
+        4. Pull your chin towards the bar until the lats are fully contracted.
+        5. Slowly lower yourself back to the start position and repeat for the assigned number of repetitions.
+
+        The closer grip also allows you to recruit your biceps and chest muscles more than the wide grip.
     </string>
 
     <string name="up_hard_hammer_grip_pull_up_n">
-        The move also improves your core strength, and it is one of the quickest and easiest ways to leave your entire upper body quivering with fatigue when training at home because a doorframe pull-up bar is the only equipment you need.
+        How to:
+        1. Leap up and grip the bar with your hands shoulder width apart and your palms facing away from you.
+        2. Hang with your arms fully extended, you can bend your legs at the knee if they’re dragging on the ground.
+        3. Keep your shoulders back and your core engaged throughout. Then pull up.
+        4. Move slowly upward until your chin is above the bar, then equally slowly downward until your arms are extended again.
+        5. Aim for 10 pull-ups, but be prepared to fall short.
+
+        It is one of the quickest and easiest ways to leave your entire upper body quivering with fatigue when training at home because a doorframe pull-up bar is the only equipment you need.
     </string>
 
     <string name="up_hard_wide_grip_pull_ups">
-        The wide-grip pullup is an upper-body strength movement that targets your back, chest, shoulders, and arms. It also gives your core muscles a pretty fantastic workout.Including wide-grip pullups in your overall fitness routine can help increase your strength in other movements, such as the lat pulldown and shoulder press.
+        How to:
+        1. Reach up and grab the bar with each hand. Your thumbs should be pointing toward each other, and your grip should be wider than your body.
+        2. When positioned correctly, your arms and torso should form a ‘Y.’ To be more specific, each arm should be 30 to 45 degrees from your body, but no more than a 45-degree angle.
+        3. Look straight ahead and pull your body upwards towards the bar.
+        4. Pause, then lower yourself back down to the original position.
+
+        The wide-grip pullup is an upper-body strength movement that targets your back, chest, shoulders, and arms. It also gives your core muscles a pretty fantastic workout.
     </string>
 
     <string name="fb_easy_bodyweight_squats">
-        The most obvious benefit of squats is building your leg muscles – quadriceps, hamstrings, and calves. These drills also create an anabolic environment, which promotes body-wide muscle building, improving muscle mass. Squats, and all of their variations, are a great exercise for the whole body.
+        How to:
+        1. Pointing your toes slightly outwards helps is recommended . Start by putting your feet shoulder-width apart and pointed about 15 degrees outwards.
+        2. Tense your abs like someone is about to punch you.
+        3. Look straight ahead and stand tall!
+
+        Squats, and all of their variations, are a great exercise for the whole body.
     </string>
     
     <string name="fb_easy_knee_push_ups">
-        Knee push-ups are a valuable alternative to toe push-ups in order to give your chest, shoulders and arms a quality workout, at the same time strengthening the muscles of the core.
+        How to:
+        1. Begin in a hands and knees position with your gaze at the floor.
+        2. Place your hands on the ground on either side of your shoulders. Your knees should be at a comfortable distance apart.
+        3. Inhale as you slowly lower your elbows to bring your chest toward the ground. Be sure to keep your core muscles contracted.
+        4. Pause for a second in the lowered position — your chin may lightly touch the ground.
+        5. Exhale as you push up from the ground to your starting position.
+
+        Knee push-ups are a valuable alternative to toe push-ups in order to give your chest, shoulders and arms a quality workout.
     </string>
     
     <string name="fb_easy_planks_n">
-         Planks work your core, that means they work basically the whole body, from your pelvic girdle to your shoulder girdle as well as your legs. The plank strengthens your spine, your rhomboids and trapezius, and your abdominal muscles, which naturally result in a strong posture as they grow in strength.
+        How to:
+        1. Plant hands directly under shoulders (slightly wider than shoulder width).
+        2. Ground toes into the floor and squeeze glutes to stabilize your body.
+        3. Neutralize your neck and spine by looking at a spot on the floor about a foot beyond your hands.
+        4. Hold the position for 20 seconds. As you get more comfortable with the move, hold your plank for as long as possible without compromising your form or breath.
+
+        Planks work your core, that means they work basically the whole body, from your pelvic girdle to your shoulder girdle as well as your legs.
     </string>
     
     <string name="fb_easy_jumping_jacks">
@@ -219,39 +250,86 @@
     </string>
 
     <string name="fb_medium_crunches">
-        Like situps, crunches help you build muscle. But unlike situps, they work only the abdominal muscles. This intense muscle isolation makes them a popular exercise for people trying to get six-pack abs. This also makes them ideal for strengthening your core, which includes your lower back muscles and obliques.
+        How to:
+        1. Lie down on your back. Plant your feet on the floor, hip-width apart.
+        2. Bend your knees and place your arms across your chest. Contract your abs and inhale.
+        3. Exhale and lift your upper body, keeping your head and neck relaxed.
+        4. Inhale and return to the starting position.
+
+        Like situps, crunches help you build muscle. But unlike situps, they work only the abdominal muscles.
     </string>
 
     <string name="fb_medium_donkey_kicks">
-        Donkey kick is a lower body exercise that tones the glutes and isometrically strengthens the hamstrings. begin in quadrupeds ition flex one knee deeper to lift your foot slightly off of the floor. frees. the knee in this position dorsiflex the ankle exhale
+        How to:
+        1. Position yourself on all fours on a mat.
+        2. Position your hands underneath your shoulders and place your knees under your hips.
+        3. Keep your right knee bent at 90 degrees and flex the foot as you lift the knee until it is level with the hip.
+        4. Lower the knee without touching the floor and repeat the lift.
+        5. Once you’ve completed the reps on the right leg, switch legs.
+
+        Donkey kick is a lower body exercise that tones the glutes and isometrically strengthens the hamstrings.
     </string>
 
     <string name="fb_medium_mountain_climbers">
-        Mountain climbers are great for building cardio endurance, core strength, and agility. You work several different muscle groups with mountain climbers—it is almost like getting a total-body workout with just one exercise
+        How to:
+        1. Put both hands and knees on the floor.
+        2. Place your right foot near your right hand and extend your left leg behind you.
+        3. In one smooth motion, switch your legs, keeping your arms in the same position.
+        4. Switch your legs back and forth twice, such that your right leg is again close to your right hand.
+
+        Mountain climbers are great for building cardio endurance, core strength, and agility.
     </string>
 
     <string name="fb_hard_burpees">
-        The burpee works your arms, back, chest, core, glutes and legs – you name it, it works it. And burpees also spike your heart rate as much as sprinting for a bus does – one reason it is a firm favourite among the high-intensity interval training (HIIT) crowd
+        How to:
+        1. Start in a squat position with your knees bent, back straight, and your feet about shoulder-width apart and lower your hand inside your feets.
+        2. Kick your feet back so you’re in a pushup position.
+        3. Keeping your body straight from head to heels, do one pushup. Remember not to let your back sag or to stick your butt in the air.
+        4. Do a frog kick by jumping your feet back to their starting position.
+        5. Stand and reach your arms over your head.
+        6. Jump quickly into the air so you land back where you started.
+
+        The burpee works your arms, back, chest, core, glutes and legs.
     </string>
 
     <string name="fb_hard_clap_push_ups">
-        The clap push-up enhances core stability, essential to your strong stance in the boxing ring. It also builds shoulder mobility, quick reflexes and upper-body strength. You know how plyometrics, or jump training, improves your lower body power
+        How to:
+        1. Lower yourself until your chest is just above the floor.
+        2. Leave the floor pushing.
+        3. Quickly clap and reposition your hands.
+        4. Repeat for 30 seconds.
+
+        The clap push-up enhances core stability, essential to your strong stance in the boxing ring.
     </string>
 
     <string name="fb_hard_split_alternating_squat_jumps">
-        Split alternating squat jumps is a gym work out exercise that targets quadriceps and also involves abs and calves and glutes and hip flexors and hamstrings.
+        How to:
+        1. Stand upright and clasp your hands behind your head.
+        2. Take one step forward into a split stance.
+        3. Drop into a split squat so that your leading thigh is parallel to the floor.
+        4. Push up from the balls of your feet rapidly to jump up, jumping as high as you can and.
+        5. switching legs midair.
+
+        Split alternating squat jumps targets quadriceps and also involves abs and calves and hamstrings.
     </string>
 
     <string name="lb_easy_calf_raises">
-        The standing calf raise exercise strengthens the muscles in your calves, improves ankle strength and stability, helps with injury prevention, improves athletic performance, aids with balance, and — of course — can build bigger calves over time
+        How to:
+        1. Start in a standing position with your feet at hip width and your arms by your sides.
+        2. Keep a straight back and good upright posture, looking straight ahead.
+        3.From here, contract your calf muscles, hamstrings and glutes so that you raise up on to your toes by lifting your heels up as high as you can.
+
+        The standing calf raise exercise strengthens the muscles in your calves.
     </string>
     
     <string name="lb_easy_wall_sit">
-        Wall sit exercises are great for sculpting the thighs, hips, calves, and lower abs. These exercises are easy on your knees and back and can be done by anyone. Do 20 minutes of wall sit exercises a day to strengthen and tone your calves, quads, hamstrings, glutes, and core and lose belly fat.
-    </string>
+        How to:
+        1. Lean back against the wall with your torso, with your feet shoulder-width apart.
+        2. Then press back and slide down the wall until your thighs are parallel with the ground.
+        3. Your knees should be above your ankles and bent at right-angles.
+        4. Keep your head, shoulders and upper back against the wall and hold the position.
 
-    <string name="lb_easy_pilates">
-        Pilates workouts promote strength and balanced muscle development as well as flexibility and increased the range of motion for the joints.
+        Wall sit exercises are great for sculpting the thighs, hips, calves, and lower abs.
     </string>
 
     <string name="lb_medium_jump_squats">
@@ -259,22 +337,39 @@
     </string>
 
     <string name="lb_medium_mountain_climbers">
-        Mountain climbers are great for building cardio endurance, core strength, and agility. You work several different muscle groups with mountain climbers—it is almost like getting a total-body workout with just one exercise.
+        How to:
+        1. Put both hands and knees on the floor.
+        2. Place your right foot near your right hand and extend your left leg behind you.
+        3. In one smooth motion, switch your legs, keeping your arms in the same position.
+        4. Switch your legs back and forth twice, such that your right leg is again close to your right hand.
+
+        Mountain climbers are great for building cardio endurance, core strength, and agility.
     </string>
 
     <string name="lb_medium_walking_lunge">
+        How to:
+        1. Stand upright, feet together, and take a controlled step forward with your right leg.
+        2. Lowering your hips toward the floor by bending both knees to 90-degree angles.
+        3. The back knee should point toward but not touch the ground, and your front knee should be directly over the ankle.
+
         Walking lunges can help strengthen the lower body. They can also help stretch out the hamstring and glutes.
     </string>
 
     <string name="lb_hard_dumbell_squats">
-        The dumbbell squat targets the quadriceps muscles in the front of the thighs and the gluteus maximus in the buttocks. The hamstrings at the back of the thighs and the soleus in the calves act to stabilize as well. These are all large muscles and the squat exercise builds functional fitness.
-    </string>
+         How to:
+            1. Pointing your toes slightly outwards helps is recommended . Start by putting your feet shoulder-width apart and pointed about 15 degrees outwards.
+            2. Tense your abs like someone is about to punch you.
+            3. Look straight ahead and stand tall!
 
-    <string name="lb_hard_swiss_ball_leg_lifts">
-        This hits your lower-body targets (hips, thighs, and butt) and works them—hard. You think it is just going to work the leg you are raising and lowering, but at the end you feel it more in the leg that did not move. It is a great example of stabilizing muscles at work.
+        Squats, and all of their variations, are a great exercise for the whole body.
     </string>
 
     <string name="lb_hard_lunge_twist">
-        The lunge with a twist exercise is a great core exercise that builds lower body strength. Performing the lunge while holding and rotating a medicine ball from right to left engages the quads, glutes, and core while improving balance and proprioception, though using this equipment is not required.
+        How to:
+        1. Start standing with your feet hip-width apart and arms at shoulder-height, elbows bent to form a goal post around your head.
+        2. Take a big step forward with your right foot and bend your knees to lower into lunge while twisting your torso over your right leg.
+        3. Return to standing.
+
+        The lunge with a twist exercise is a great core exercise that builds lower body strength.
     </string>
 </resources>

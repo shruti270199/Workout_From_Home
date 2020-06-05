@@ -36,24 +36,24 @@ public class Exercise extends AppCompatActivity {
 
     Integer[] male_abs ={
             R.drawable.abs_easy_hindupushup,
-            //R.drawable.abs_easy_hipraises,
-            //R.drawable.abs_easy_inchworm,
-            //R.drawable.abs_easy_plank,
-            //R.drawable.abs_medium_alternate_heal_touches,
+            R.drawable.abs_easy_hipraises,
+            R.drawable.abs_easy_inchworm,
+            R.drawable.abs_easy_plank,
+            R.drawable.abs_medium_alternate_heal_touches,
             R.drawable.abs_medium_bench_leg_pull_in,
-            //R.drawable.abs_medium_jackknife_situps,
+            R.drawable.abs_medium_jackknife_situps,
             R.drawable.abs_medium_sideplank,
-            R.drawable.abs_hard_dbl_side_jack,
+//            R.drawable.abs_hard_dbl_side_jack,
             R.drawable.abs_hard_dumbbell_side_bend,
             //R.drawable.abs_hard_dumbell_chop,
             R.drawable.abs_hard_russian_twist,
     };
     Integer[] male_up = {
-            R.drawable.up_easy_bicep_curl,
+            //R.drawable.up_easy_bicep_curl,
             R.drawable.up_easy_tricep,
             R.drawable.up_easy_triceps_extension,
             R.drawable.up_hard_wide_grip_pull_ups,
-            R.drawable.up_medium_chinups,
+            //R.drawable.up_medium_chinups,
             R.drawable.up_medium_close_grip_pull_up,
             R.drawable.up_hard_hammer_grip_pull_up_n,
 
@@ -61,11 +61,11 @@ public class Exercise extends AppCompatActivity {
     Integer[] male_lb ={
             R.drawable.fb_easy_bodyweight_squats,
             R.drawable.fb_easy_knee_push_ups,
-            //R.drawable.fb_easy_planks_n,
+            R.drawable.abs_easy_plank,
             R.drawable.fb_easy_jumping_jacks,
-            //R.drawable.fb_medium_crunches,
-            //R.drawable.fb_medium_donkey_kicks,
-            //R.drawable.fb_medium_mountain_climbers,
+            R.drawable.fb_medium_crunches,
+            R.drawable.fb_medium_donkey_kicks,
+            R.drawable.fb_medium_mountain_climbers,
             R.drawable.fb_hard_burpees,
             R.drawable.fb_hard_clap_push_ups,
             R.drawable.fb_hard_split_alternating_squat_jumps,
@@ -79,7 +79,7 @@ public class Exercise extends AppCompatActivity {
             R.drawable.lb_medium_mountain_climbers,
             R.drawable.lb_medium_walking_lunge,
             R.drawable.lb_hard_dumbell_squats,
-            R.drawable.lb_hard_swiss_ball_leg_lifts,
+            //R.drawable.lb_hard_swiss_ball_leg_lifts,
             //R.drawable.lb_hard_lunge_twist,
     };
 
