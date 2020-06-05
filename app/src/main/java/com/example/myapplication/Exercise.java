@@ -207,7 +207,7 @@ public class Exercise extends AppCompatActivity {
 
     Integer[] female_lb_image = {
             R.drawable.f_lb_easy_side_lying_leg_lift_up_left,
-            R.drawable.f_lb_easy_left_lying_lift_up_right,
+            //R.drawable.f_lb_easy_left_lying_lift_up_right,
             R.drawable.f_lb_easy_plie_squats,
             R.drawable.f_lb_easy_wall_sit,
             R.drawable.f_lb_medium_left_lunge_knee_hops,
@@ -231,7 +231,7 @@ public class Exercise extends AppCompatActivity {
             //R.drawable.f_fb_medium_side_plank_right,
             R.drawable.f_fb_hard_high_stepping,
             R.drawable.f_fb_hard_kneepushups,
-            R.drawable.f_fb_hard_side_plank_right,
+           // R.drawable.f_fb_hard_side_plank_right,
             R.drawable.f_fb_hard_sideplankleft,
             R.drawable.f_fb_hard_step_up_onto_chair,
 

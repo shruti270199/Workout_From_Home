@@ -46,7 +46,6 @@
                 android:layout_height="35dp"
                 android:id="@+id/toedit"
                 android:textSize="16sp"
-                android:text="shreya27jan@gmail.com"
                 android:layout_margin="5dp"
                 android:layout_below="@+id/totext"/>
 
