@@ -24,6 +24,7 @@
     <string name="male_abs_hard_dumbbell_side_bend">Side Bend</string>
     <string name="male_abs_hard_russian_twist">Russian twist</string>
     <string name="male_up_easy_tricep">Triceps</string>
+    <string name="male_up_easy_bicep_curl">Bicep Curl</string>
     <string name="male_up_easy_triceps_extension">Tricep Extensio</string>
     <string name="male_up_medium_close_grip_pull_up">Close Grip Pull-ups</string>
     <string name="male_up_hard_hammer_grip_pull_up_n">Hammer Grip Pull-ups</string>
@@ -172,7 +173,9 @@
 
         Working out your triceps helps to build upper body strength and is an essential part of any strength training routine.
     </string>
-
+    <string name="up_easy_bicep_curl">
+        Stand holding a dumbbell in each hand with your arms hanging by your sides. Ensure your elbows are close to your torso and your palms facing forward. Keeping your upper arms stationary, exhale as you curl the weights up to shoulder level while contracting your biceps.
+    </string>
     <string name="up_easy_triceps_extension">
         How to:
         1. Stands with your feet shoulder width apart.
