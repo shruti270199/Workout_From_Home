@@ -20,10 +20,10 @@ public class Main3Activity extends AppCompatActivity implements AdapterView.OnIt
     String[] names1 = new String[]{"Abs Workout", "Upper Body Workout", "Lower Body Workout", "Full Body Workout"};
 
     Integer[] img1={
-            R.drawable.bg1,
-            R.drawable.bg1,
-            R.drawable.bg1,
-            R.drawable.bg1,
+            R.drawable.abs,
+            R.drawable.upper_body,
+            R.drawable.lower_body,
+            R.drawable.full_body,
     };
 
     @Override
@@ -35,11 +35,11 @@ public class Main3Activity extends AppCompatActivity implements AdapterView.OnIt
 
         Intent intent = getIntent();
         gender = intent.getIntExtra("gender",1);
-        if(gender==1)
+        /*if(gender==1)
             Toast.makeText(getApplicationContext(), "male", Toast.LENGTH_SHORT).show();
         else
             Toast.makeText(getApplicationContext(), "female", Toast.LENGTH_SHORT).show();
-
+         */
         CustomListAdapter adapter = new CustomListAdapter(this, names1, img1);
         lv1.setAdapter(adapter);
         lv1.setOnItemClickListener(this);
@@ -50,7 +50,7 @@ public class Main3Activity extends AppCompatActivity implements AdapterView.OnIt
             i.putExtra("gender", gender);
             i.putExtra("exercise type", "Abs workout");
             startActivity(i);
-            Toast.makeText(getApplicationContext(), "Abs workout", Toast.LENGTH_SHORT).show();
+            //Toast.makeText(getApplicationContext(), "Abs workout", Toast.LENGTH_SHORT).show();
         }
         else if(position == 1)
         {

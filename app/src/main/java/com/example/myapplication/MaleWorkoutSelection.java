@@ -56,7 +56,7 @@ public class MaleWorkoutSelection extends AppCompatActivity implements AdapterVi
             i.putExtra("exercise type",exercise_type);
             i.putExtra("level",1);
             startActivity(i);
-            finish();
+            //finish();
         }
         else if(position == 2)
         {
