@@ -17,7 +17,7 @@
     <string name="male_abs_easy_hipraises">Hip-raises</string>
     <string name="male_abs_easy_inchworm">Inchworm</string>
     <string name="male_abs_easy_plank">Planks</string>
-    <string name="male_abs_medium_alternate_heal_touches">Alternate Heal Touches</string>
+    <string name="male_abs_medium_alternate_heal_touches">Alternate Heel Touches</string>
     <string name="male_abs_medium_bench_leg_pull_in">Bench Leg Pull-in</string>
     <string name="male_abs_medium_jackknife_situps">Jackknife Sit-ups</string>
     <string name="male_abs_medium_sideplank">Side Planks</string>
@@ -53,42 +53,116 @@
     <string name="male_lb_hard_lunge_twist">Lunge Twists</string>
 
     <string name="abs_easy_hindupushup">
-        the Hindu pushup has more of a flow to standard pushups. But it targets the same muscles as a regular pushup: the chest, triceps, biceps, shoulders, and the core.
+        How to:
+        1. Stretch before doing the Hindu push-up.
+        2. Get into a starting push-up position.
+        3. Raise your backside into the air.
+        4. Inhale deeply.
+        5. Bend your elbows and lower your chest.
+        6. Arch your lower and upper back.
+        7. Straighten your arms and look up.
+        8. Return to the starting position.
+        9. Repeat.
+
+        It targets the same muscles as a regular pushup: the chest, triceps, biceps, shoulders, and the core.
     </string>
 
     <string name="abs_easy_hipraises">
-        By using the hip raise, you can activate your glutes once again, and build more muscle all over. Plus, because your glutes are such a big muscle group, they are also one of your body top calorie burners. The upshot: The hip raise can ultimately help you burn more fat, too.
+        Hot to:
+        1. Lie on your back with your right knee bent and right foot flat on the floor.
+        2. Raise your left leg so it is in line with your right thigh.
+        3. Push your hips up, keeping your left leg elevated.
+        4. Pause and slowly return to the starting position.
+        5. Switch legs and repeat.
+
+        By using the hip raise, you can activate your glutes once again, and build more muscle all over.
     </string>
 
     <string name="abs_easy_inchworm">
-        The inchworm exercise offers a little bit of everything—it helps strengthen the muscles of your anterior chain (the front half of your body) while stretching the muscles of your posterior chain (the back half of your body). And because it targets your entire body in some capacity, it gets the blood flowing
+        How to:
+        1. Stand tall, your feet roughly hip-distance apart.
+        2. Enable your hands to reach the ground.
+        3. Place your hands on the floor in front of your feet. Move forward while allowing your heels to lift off the floor.
+        4. Keep your legs relatively straight and begin walking your feet forward, one at a time, toward your hands.
+        5. Stop when your feet are as close to your hands as you can comfortably bring them.
+        6. Return to standing by slowly rolling your back up from the hips, straightening one vertebra at a time.
+
+        The inchworm exercise helps strengthen the muscles of your anterior chain while stretching the muscles of your posterior chain.
     </string>
 
     <string name="abs_easy_plank">
-         Planks work your core, that means they work basically the whole body, from your pelvic girdle to your shoulder girdle as well as your legs. The plank strengthens your spine, your rhomboids and trapezius, and your abdominal muscles, which naturally result in a strong posture as they grow in strength.
+        How to:
+        1. Plant hands directly under shoulders (slightly wider than shoulder width).
+        2. Ground toes into the floor and squeeze glutes to stabilize your body.
+        3. Neutralize your neck and spine by looking at a spot on the floor about a foot beyond your hands.
+        4. Hold the position for 20 seconds. As you get more comfortable with the move, hold your plank for as long as possible without compromising your form or breath.
+
+        Planks work your core, that means they work basically the whole body, from your pelvic girdle to your shoulder girdle as well as your legs.
     </string>
 
     <string name="abs_medium_alternate_heal_touches">
-        The Abs and obliques are the Primary muscles which are benefited the most by performing the Alternate Heel Touches exercise. Apart from a floor to lay down on, Alternate Heel Touches exercise does not require any equipment.
+        How to:
+        1. Lay down on your back on and place your feet flat and widen then slightly more than your shoulder-apart-width.
+        2. Extend your arms towards the downward direction by the side of the body with your palms facing inwards.
+        3. While exhaling your breath, crunch your abs in the forward right direction.
+        4. Now while you’re inhaling your breath, leave the right ankle you caught hold of with your right arm and very slowly move back to the starting position.
+        5. Repeat the same on other side.
+
+        Apart from a floor to lay down on, Alternate Heel Touches exercise does not require any equipment.
     </string>
 
     <string name="abs_medium_bench_leg_pull_in">
-        The flat bench abdominal leg pull ins target your abdominal muscles (rectus abdominis) and provide minor tension to your hip flexors. This exercise works your lower abs very well, which provides a contrast to most ab exercises that place most of the resistance on the middle and upper abs.
+        How to:
+        1. Sit on the bench with your legs fully extended in front of you angled towards the floor slightly.
+        2. Grip the sides of the bench for stability.
+        3. Leaning back to about a 45-degree angle from the bench.
+        4. Pull your knees in toward you at the same time moving your torso towards them.
+        5. Make sure you exhale as you perform this part of the movement.
+        6. Hold for a count of one.
+        7. Return to the start position by extending your legs out and relaxing your abdominal muscles.
+
+        It targets your abdominal muscles and provide minor tension to your hip flexors.
     </string>
 
     <string name="abs_medium_jackknife_situps">
-        A jackknife is an abdominal exercise. This exercise is also known as a "V-Up". Jackknife exercises are designed to strengthen the upper and lower abdominal muscles, particularly the transversus abdominis muscle
+        How to:
+        1. Lie flat on the floor with your arms and legs extended.
+        2. Take a deep breath before you begin.
+        3. Exhale and contract your abs, raising both arms and legs.
+        4. Hold yourself in this jack knife position for about 3 seconds.
+        5. Inhale as you lower your arms and legs slowly to the starting position.
+        6. Repeat 10-12 reps per set and aim to complete 2-3 sets.
+
+        Jackknife exercises are designed to strengthen the upper and lower abdominal muscles.
     </string>
 
     <string name="abs_medium_sideplank">
-        The side plank is a great exercise for strengthening the oblique abdominal muscles, which do not get worked during ab exercises such as crunches. You will hold your body on your side in straight position supported only by one arm and the side of one foot.
+        How to:
+        1. Start on your side with your feet together and one forearm directly below your shoulder.
+        2. Contract your core and raise your hips until your body is in a straight line from head to feet
+        3. Hold the position without letting your hips drop for the allotted time for each set.
+        4. Then repeat on the other side.
+
+        The side plank is a great exercise for strengthening the oblique abdominal muscles.
     </string>
 
     <string name="abs_hard_dbl_side_jack">
-        Along with being a good cardio exercise, jumping jacks are also ideal to build stronger muscles. While they are not as good as weights, they are still one of the most effective cardio exercises. Your arms get a good workout and build muscle, as do your glutes, hamstrings, quads, calves.
+        How to:
+        1. Lie on your side with your right leg on top of your left.
+        2. Put your right hand behind your head, elbow flared out, and the other on the floor in front of you for balance.
+        3. Contract your obliques to bring your right leg and elbow together, then slowly lower.
+        4. Perform all your reps on one side before swapping.
+
+        Jumping jacks are also ideal to build stronger muscles.
     </string>
 
     <string name="abs_hard_dumbbell_side_bend">
+        How to:
+        1. Stand with feet approximately shoulder width apart.
+        2. Slowly lean to the right and point where a gentle stretch is felt along the left side.
+        3. Pause for a second, and then in one slow movement and keeping yourself from twisting.
+        4. Repeat on Left side.
+
         Side bends help to increase both strength and flexibility of the low back and the abdominals, supporting the spine and helping to improve posture.
     </string>
 
