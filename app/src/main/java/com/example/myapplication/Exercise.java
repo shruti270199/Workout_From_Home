@@ -57,53 +57,38 @@ public class Exercise extends AppCompatActivity {
     Integer[] male_abs_image ={
             R.drawable.abs_easy_hindupushup,
             R.drawable.abs_easy_hipraises,
-<<<<<<< HEAD
             R.drawable.abs_easy_inchworm,
             R.drawable.abs_easy_plank,
             R.drawable.abs_medium_alternate_heal_touches,
-=======
-            //R.drawable.abs_easy_inchworm,
-            //R.drawable.abs_easy_plank,
-            //R.drawable.abs_medium_alternate_heal_touches,
->>>>>>> origin/master
             R.drawable.abs_medium_bench_leg_pull_in,
             R.drawable.abs_medium_jackknife_situps,
             R.drawable.abs_medium_sideplank,
-<<<<<<< HEAD
-//            R.drawable.abs_hard_dbl_side_jack,
-=======
-            //R.drawable.abs_hard_dbl_side_jack,
->>>>>>> origin/master
             R.drawable.abs_hard_dumbbell_side_bend,
             //R.drawable.abs_hard_dumbell_chop,
             R.drawable.abs_hard_russian_twist,
     };
-<<<<<<< HEAD
-    Integer[] male_up = {
-            //R.drawable.up_easy_bicep_curl,
-=======
+
 
     Integer[] male_up_name = {
-            R.string.male_up_easy_bicep_curl,
+          //  R.string.male_up_easy_bicep_curl,
             R.string.male_up_easy_tricep,
             R.string.male_up_easy_triceps_extension,
             R.string.male_up_hard_wide_grip_pull_ups,
-            R.string.male_up_medium_chinups,
+            //R.string.male_up_medium_chinups,
             R.string.male_up_medium_close_grip_pull_up,
             R.string.male_up_hard_hammer_grip_pull_up_n,
     };
     Integer[] male_up_description = {
-            R.string.up_easy_bicep_curl,
+          //  R.string.up_easy_bicep_curl,
             R.string.up_easy_tricep,
             R.string.up_easy_triceps_extension,
             R.string.up_hard_wide_grip_pull_ups,
-            R.string.up_medium_chinups,
+            //R.string.up_medium_chinups,
             R.string.up_medium_close_grip_pull_up,
             R.string.up_hard_hammer_grip_pull_up_n,
     };
     Integer[] male_up_image = {
             R.drawable.up_easy_bicep_curl,
->>>>>>> origin/master
             R.drawable.up_easy_tricep,
             R.drawable.up_easy_triceps_extension,
             R.drawable.up_hard_wide_grip_pull_ups,
@@ -159,7 +144,7 @@ public class Exercise extends AppCompatActivity {
             R.string.male_lb_medium_mountain_climbers,
             R.string.male_lb_medium_walking_lunge,
             R.string.male_lb_hard_dumbell_squats,
-            R.string.male_lb_hard_swiss_ball_leg_lifts,
+            //R.string.male_lb_hard_swiss_ball_leg_lifts,
             //R.string.male_lb_hard_lunge_twist,
     };
     Integer[] male_fb_image ={
@@ -181,7 +166,7 @@ public class Exercise extends AppCompatActivity {
             R.string.lb_medium_mountain_climbers,
             R.string.lb_medium_walking_lunge,
             R.string.lb_hard_dumbell_squats,
-            R.string.lb_hard_swiss_ball_leg_lifts,
+            //R.string.lb_hard_swiss_ball_leg_lifts,
             //R.string.lb_hard_lunge_twist,
     };
 
