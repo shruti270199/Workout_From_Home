@@ -372,4 +372,47 @@
 
         The lunge with a twist exercise is a great core exercise that builds lower body strength.
     </string>
+    
+    
+    <string name="fm_abs_easy_abdominal_crunches">Abdominal Crunches</string>
+    <string name="fm_abs_easy_leg_raises">Leg Raises</string>
+    <string name="fm_abs_easy_plank">Plank</string>
+    <string name="fm_abs_easy_sit_ups">Sit Ups</string>
+    <string name="fm_abs_medium_abdominal_crunches">Abdominal Crunches</string>
+    <string name="fm_abs_medium_plank">Plank</string>
+    <string name="fm_abs_medium_reverse_crunches">Reverse Crunches</string>
+    <string name="fm_abs_medium_side_plank_left">Side Plank</string>
+    <string name="fm_abs_hard_abdominal_crunches">Abdominal Crunches</string>
+    <string name="fm_abs_hard_cobras">Cobras</string>
+    <string name="fm_fb_easy_abdominal_crunches">Abdominal Crunches</string>
+    <string name="fm_fb_easy_jumping_jack">Jumping Jack</string>
+    <string name="fm_fb_easy_plank">Plank</string>
+    <string name="fm_fb_easy_set_up_onto_chair">Set up Onto Chair</string>
+    <string name="fm_fb_medium_crusty_lunges">Crusty Lunges</string>
+    <string name="fm_fb_medium_knee_pus_ups">Knee Push-ups</string>
+    <string name="fm_fb_medium_side_plank_left">Side Plank </string>
+    <string name="fm_fb_hard_stepping">Stepping</string>
+    <string name="fm_fb_hard_sideplankleft">Side Plank</string>
+    <string name="fm_fb_hard_knee_push_ups">Knee Push-ups</string>
+    <string name="fm_fb_hard_set_up_onto_chair">Set up Onto Chair</string>
+    <string name="fm_lb_easy_side_lying_leg_lift_up_left">Side Lying Leg Lift Up Left </string>
+    <string name="fm_lb_easy_plie_squats">Plie Squats</string>
+    <string name="fm_lb_easy_wall_sit">Wall Sits</string>
+    <string name="fm_lb_medium_left_knee_lunge_hops">Knee Lunge Hops</string>
+    <string name="fm_lb_medium_wall_sit">Wall Sits</string>
+    <string name="fm_lb_medium_sumo_squat_calf_raises">Sumo Squat Calf Raises</string>
+    <string name="fm_lb_hard_bulgarian_squats">Bulgarian Squats</string>
+    <string name="fm_lb_hard_crusty_lunges">Crusty Lunges</string>
+    <string name="fm_up_easy_plank">Plank</string>
+    <string name="fm_up_easy_push_ups">Push-ups</string>
+    <string name="fm_up_easy_tricep_dips">Tricep Dips</string>
+    <string name="fm_up_medium_arm_circles">Arm Circles-</string>
+    <string name="fm_up_medium_push_ups">Push-Ups</string>
+    <string name="fm_up_tricep_dips">Tricep Dips</string>
+    <string name="fm_up_hard_arm_circles">Arm Circles-</string>
+    <string name="fm_up_hard_tricep_dips">Tricep Dips</string>
+    <string name="fm_up_hard_plank">Plank</string>
+    <string name="fm_up_hard_mountain_climbers">Mountain Climbers</string>
+    
+    
 </resources>

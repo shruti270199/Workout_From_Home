@@ -171,7 +171,7 @@ public class Exercise extends AppCompatActivity {
     };
 
 
-    Integer[] female_abs = {
+    Integer[] female_abs_img = {
             R.drawable.f_abs_easy_abdominal_crunches,
             R.drawable.f_abs_easy_leg_raises,
             R.drawable.f_abs_easy_plank,
@@ -185,7 +185,7 @@ public class Exercise extends AppCompatActivity {
             R.drawable.f_abs_medium_reverse_crunches,
     };
 
-    Integer[] female_up = {
+    Integer[] female_up_img = {
             R.drawable.f_up_easy_mountain_climber,
             R.drawable.f_up_easy_plank,
             R.drawable.f_up_easy_push_ups,
@@ -201,20 +201,20 @@ public class Exercise extends AppCompatActivity {
             R.drawable.f_up_hard_tricep_dips,
     };
 
-    Integer[] female_lb = {
-           R.drawable.f_lb_easy_left_lying_lift_up_right,
+    Integer[] female_lb_img = {
+           //R.drawable.f_lb_easy_left_lying_lift_up_right,
             R.drawable.f_lb_easy_plie_squats,
             R.drawable.f_lb_easy_side_lying_leg_lift_up_left,
             R.drawable.f_lb_easy_wall_sit,
             R.drawable.f_lb_medium_left_lunge_knee_hops,
-            R.drawable.f_lb_medium_right_lunge_knee_hops,
+            //R.drawable.f_lb_medium_right_lunge_knee_hops,
             R.drawable.f_lb_medium_sumo_squat_calf_raises,
             R.drawable.f_lb_medium_wall_sit,
             R.drawable.f_lb_hard_bulgarian_squat,
             R.drawable.f_lb_hard_crusty_lunges,
     };
 
-    Integer[] female_fb = {
+    Integer[] female_fb_img = {
             R.drawable.f_fb_easy_abdominal_crunches,
             R.drawable.f_fb_easy_jumping_jack,
             R.drawable.f_fb_easy_plank,
@@ -224,10 +224,10 @@ public class Exercise extends AppCompatActivity {
             R.drawable.f_fb_medium_knee_push_ups,
             R.drawable.f_fb_medium_pushups,
             R.drawable.f_fb_medium_side_plank_left,
-            R.drawable.f_fb_medium_side_plank_right,
+            //R.drawable.f_fb_medium_side_plank_right,
             R.drawable.f_fb_hard_high_stepping,
             R.drawable.f_fb_hard_kneepushups,
-            R.drawable.f_fb_hard_side_plank_right,
+            //R.drawable.f_fb_hard_side_plank_right,
             R.drawable.f_fb_hard_sideplankleft,
             R.drawable.f_fb_hard_step_up_onto_chair,
 
