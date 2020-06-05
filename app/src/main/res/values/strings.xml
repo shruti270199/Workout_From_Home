@@ -401,15 +401,15 @@
     <string name="fm_fb_medium_side_plank_left">Side Plank </string>
     <string name="fm_fb_hard_stepping">Stepping</string>
     <string name="fm_fb_hard_sideplankleft">Side Plank</string>
-    <string name="fm_fb_hard_knee_push_ups">Knee Push-ups</string>
-    <string name="fm_fb_hard_set_up_onto_chair">Set up Onto Chair</string>
+    <string name="fm_fb_medium_knee_push_ups">Knee Push-ups</string>
+    <string name="fm_fb_hard_step_up_onto_chair">Set up Onto Chair</string>
     <string name="fm_lb_easy_side_lying_leg_lift_up_left">Side Lying Leg Lift Up Left </string>
     <string name="fm_lb_easy_plie_squats">Plie Squats</string>
     <string name="fm_lb_easy_wall_sit">Wall Sits</string>
-    <string name="fm_lb_medium_left_knee_lunge_hops">Knee Lunge Hops</string>
+    <string name="fm_lb_medium_left_lunge_knee_hops">Knee Lunge Hops</string>
     <string name="fm_lb_medium_wall_sit">Wall Sits</string>
     <string name="fm_lb_medium_sumo_squat_calf_raises">Sumo Squat Calf Raises</string>
-    <string name="fm_lb_hard_bulgarian_squats">Bulgarian Squats</string>
+    <string name="fm_lb_hard_bulgarian_squat">Bulgarian Squats</string>
     <string name="fm_lb_hard_crusty_lunges">Crusty Lunges</string>
     <string name="fm_up_easy_plank">Plank</string>
     <string name="fm_up_easy_push_ups">Push-ups</string>
@@ -420,7 +420,7 @@
     <string name="fm_up_hard_arm_circles">Arm Circles-</string>
     <string name="fm_up_hard_tricep_dips">Tricep Dips</string>
     <string name="fm_up_hard_plank">Plank</string>
-    <string name="fm_up_hard_mountain_climbers">Mountain Climbers</string>
+    <string name="fm_up_hard_mountain_climber">Mountain Climbers</string>
 
     <string name="abdominal_crunches">
         How to:
@@ -428,6 +428,19 @@
         2. Bend your knees and place your feet flat on the floor.
         3. Exhale while you curl your body forward off the floor making sure your shoulder blades come off the floor.
         4. Hold for one second and then slowly return to the starting position, inhaling while you return to the floor.
+    </string>
+    <string name="lunge_knee_hops">
+        How to:
+        1. Engage your abdominal muscles, straighten your back and look straight ahead.
+        2. Maintain this position as you lower your hips toward the floor by bending your legs to 90°.
+        3. Continue down until your left knee nears the floor, then lift and bring your left knee close to your chest as you hop on the right foot.
+    </string>
+    <string name="push_ups">
+        How to:
+        1. Begin with your chest and stomach flat on the floor.
+        2. Your legs should be straight out behind you and your palms should be at chest level with the arms bent out at a 45-degree angle.
+        3. Exhale as you push from your hands and heels, bringing your torso, chest, and thighs off the ground.
+        4. Inhale as you slowly lower back to your starting position.
     </string>
 
     <string name="leg_raises">
@@ -437,7 +450,11 @@
         3. Slowly,lower your legs back down just above the floor.Hold for a minute.
         4. Raise your legs back up.
     </string>
-
+    <string name="jumping_jack">
+        How to:
+        1. Jump up, widen your leg, either hands up or in a clapping position.
+        2. Return back and repeat.
+    </string>
     <string name="plank">
         How to:
         1. Face down with your forearms and toes on the floor. 
@@ -446,7 +463,7 @@
         4. Keep your torso straight and rigid and your body in a straight line from ears to toes with no sagging or bending.
     </string>
     
-    <string name="set_up_onto_chair">
+    <string name="step_up_onto_chair">
         How to:
         1. Walkup to the chair with a chair-sit facing in front of you.You should be 2 feet away from the chair.
         2. Next, take your right foot, step up and continue looking all the straight ahead and then stay back down.
@@ -460,7 +477,7 @@
         3. Again return to standing position.
     </string>
 
-    <string name="mountain_climbers">
+    <string name="mountain_climber">
         How to:
         1. Get into a plank position, making sure to distribute your weight evenly between your hands and your toes.
         2. Check your form—your hands should be about shoulder-width apart, back flat, abs engaged, and head in alignment.
@@ -485,21 +502,21 @@
         3. Reverse the direction of the circles after about 10 seconds.
     </string>
 
-    <string name="pile_squats">
+    <string name="plie_squats">
         How to:
         1. Stand with your feet wider than shoulder-width apart, arms at your sides, and point your toes out at an angle.
         2. Squat down, bending your knees until your thighs are parallel with the ground. As you lower your body, raise your arms above your head.
         3. Pause, then straighten your legs and return your arms to your sides.
     </string>
 
-    <string name="wall_sits">
+    <string name="wall_sit">
         How to:
         1. Lean against the wall with your feet shoulder-width apart and firmly planted on the ground.
         2. Put your feet forward. Go down as you do so, and keep leaning against the wall. Exhale and slowly slide down into the perfect wall sit position and raise your arms until they are at level with your shoulders and parallel to the floor.
         3. Hold this position for a second and then inhale and slide up by straightening your arms. Simultaneously, lower your arms and come back to the starting position.
     </string>
 
-    <string name="bulgarian_split_squats">
+    <string name="bulgarian_squat">
         How to:
         1. Stand 2 to 3 feet in front of a knee-high platform. Extend your right leg behind you and rest your toes on the bench.Square your hips and shoulders.
         2. Keeping your torso upright, slowly lower your right knee toward the floor. Your front knee

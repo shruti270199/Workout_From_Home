@@ -174,6 +174,19 @@ public class Exercise extends AppCompatActivity {
     };
 
 
+    Integer[] female_abs_name = {
+            R.string.fm_abs_easy_abdominal_crunches,
+            R.string.fm_abs_easy_leg_raises,
+            R.string.fm_abs_easy_plank,
+            R.string.fm_abs_easy_sit_ups,
+            //R.string.fm_abs_medium_abdominal_crunches,
+            //R.string.fm_abs_medium_plank,
+            //R.string.fm_abs_medium_side_plank_right,
+            R.string.fm_abs_medium_side_plank_left,
+            //R.string.f_abs_hard_abdominal_crunches,
+            R.string.fm_abs_hard_cobras,
+            R.string.fm_abs_medium_reverse_crunches,
+    };
     Integer[] female_abs_image = {
             R.drawable.f_abs_easy_abdominal_crunches,
             R.drawable.f_abs_easy_leg_raises,
@@ -181,16 +194,46 @@ public class Exercise extends AppCompatActivity {
             R.drawable.f_abs_easy_sit_ups,
             //R.drawable.f_abs_medium_abdominal_crunches,
             //R.drawable.f_abs_medium_plank,
-            R.drawable.f_abs_medium_side_plank_right,
+            //R.drawable.f_abs_medium_side_plank_right,
             R.drawable.f_abs_medium_side_plank_left,
             //R.drawable.f_abs_hard_abdominal_crunches,
             R.drawable.f_abs_hard_cobras,
             R.drawable.f_abs_medium_reverse_crunches,
     };
+    Integer[] female_abs_description = {
+            R.string.abdominal_crunches,
+            R.string.leg_raises,
+            R.string.plank,
+            R.string.sit_ups,
+            //R.string.abdominal_crunches,
+            //R.string.medium_plank,
+            //R.string.side_plank_right,
+            R.string.plank,
+            //R.string.f_abs_hard_abdominal_crunches,
+            R.string.cobras,
+            R.string.reverse_crunches,
+    };
 
+    Integer[] female_up_name = {
+            R.string.fm_up_hard_mountain_climber,
+            R.string.fm_up_hard_mountain_climber,
+            //R.string.fm_up_easy_mountain_climber,
+            R.string.fm_up_easy_plank,
+            R.string.fm_up_easy_push_ups,
+            R.string.fm_up_easy_tricep_dips,
+            R.string.fm_up_medium_arm_circles,
+            //R.string.fm_up_medium_push_ups,
+            //R.string.fm_up_medium_tricep_dips,
+            //R.string.fm_up_medium_arm_circles,
+            //R.string.fm_up_hard_arm_circles,
+            //R.string.fm_up_hard_mountain_climber,
+            //R.string.fm_up_hard_plank,
+            //R.string.fm_up_hard_tricep_dips,
+    };
     Integer[] female_up_image = {
-            R.drawable.f_up_easy_mountain_climber,
-            R.drawable.f_up_easy_mountain_climber,
+            R.drawable.f_up_hard_mountain_climber,
+            R.drawable.f_up_hard_mountain_climber,
+            //R.drawable.f_up_easy_mountain_climber,
             R.drawable.f_up_easy_plank,
             R.drawable.f_up_easy_push_ups,
             R.drawable.f_up_easy_tricep_dips,
@@ -201,10 +244,36 @@ public class Exercise extends AppCompatActivity {
             //R.drawable.f_up_hard_arm_circles,
             //R.drawable.f_up_hard_mountain_climber,
             //R.drawable.f_up_hard_plank,
-            //R.drawable.f_up_hard_mountain_climber,
             //R.drawable.f_up_hard_tricep_dips,
     };
-
+    Integer[] female_up_description = {
+            R.string.mountain_climber,
+            R.string.mountain_climber,
+            //R.string.mountain_climber,
+            R.string.plank,
+            R.string.push_ups,
+            R.string.tricep_dips,
+            R.string.arm_circles,
+            //R.string.push_ups,
+            //R.string.tricep_dips,
+            //R.string.arm_circles,
+            //R.string.arm_circles,
+            //R.string.mountain_climber,
+            //R.string.hard_plank,
+            //R.string.tricep_dips,
+    };
+    Integer[] female_lb_name = {
+            R.string.fm_lb_easy_side_lying_leg_lift_up_left,
+            //R.string.fm_lb_easy_left_lying_lift_up_right,
+            R.string.fm_lb_easy_plie_squats,
+            R.string.fm_lb_easy_wall_sit,
+            R.string.fm_lb_medium_left_lunge_knee_hops,
+            //R.string.fm_lb_medium_right_lunge_knee_hops,
+            R.string.fm_lb_medium_sumo_squat_calf_raises,
+            //R.string.fm_lb_medium_wall_sit,
+            R.string.fm_lb_hard_bulgarian_squat,
+            R.string.fm_lb_hard_crusty_lunges,
+    };
     Integer[] female_lb_image = {
             R.drawable.f_lb_easy_side_lying_leg_lift_up_left,
             //R.drawable.f_lb_easy_left_lying_lift_up_right,
@@ -217,24 +286,70 @@ public class Exercise extends AppCompatActivity {
             R.drawable.f_lb_hard_bulgarian_squat,
             R.drawable.f_lb_hard_crusty_lunges,
     };
+    Integer[] female_lb_description = {
+            R.string.side_lying_leg_lift_up,
+            //R.string.left_lying_lift_up,
+            R.string.plie_squats,
+            R.string.wall_sit,
+            R.string.lunge_knee_hops,
+            //R.string.lunge_knee_hops,
+            R.string.sumo_squat_calf_raises,
+            //R.string.wall_sit,
+            R.string.bulgarian_squat,
+            R.string.crusty_lunges,
+    };
 
+    Integer[] female_fb_name = {
+            R.string.fm_fb_easy_abdominal_crunches,
+            R.string.fm_fb_easy_jumping_jack,
+            R.string.fm_fb_easy_plank,
+            R.string.fm_fb_hard_step_up_onto_chair,
+            //R.string.fm_fb_medium_cross_arm_lunges,
+            R.string.fm_fb_medium_crusty_lunges,
+            R.string.fm_fb_medium_knee_push_ups,
+            R.string.fm_up_easy_push_ups,
+            //R.string.fm_fb_medium_side_plank_left,
+            //R.string.fm_fb_medium_side_plank_right,
+            //R.string.fm_fb_hard_high_stepping,
+            //R.string.fm_fb_hard_kneepushups,
+            // R.string.fm_fb_hard_side_plank_right,
+            R.string.fm_fb_hard_sideplankleft,
+            R.string.fm_fb_hard_step_up_onto_chair,
+    };
     Integer[] female_fb_image = {
             R.drawable.f_fb_easy_abdominal_crunches,
             R.drawable.f_fb_easy_jumping_jack,
             R.drawable.f_fb_easy_plank,
             R.drawable.f_fb_hard_step_up_onto_chair,
-            R.drawable.f_fb_medium_cross_arm_lunges,
-            //R.drawable.f_fb_medium_crusty_lunges,
+            //R.drawable.f_fb_medium_cross_arm_lunges,
+            R.drawable.f_fb_medium_crusty_lunges,
             R.drawable.f_fb_medium_knee_push_ups,
-            R.drawable.f_fb_medium_pushups,
+            R.drawable.f_up_easy_push_ups,
             //R.drawable.f_fb_medium_side_plank_left,
             //R.drawable.f_fb_medium_side_plank_right,
-            R.drawable.f_fb_hard_high_stepping,
-            R.drawable.f_fb_hard_kneepushups,
+            //R.drawable.f_fb_hard_high_stepping,
+            //R.drawable.f_fb_hard_kneepushups,
            // R.drawable.f_fb_hard_side_plank_right,
             R.drawable.f_fb_hard_sideplankleft,
             R.drawable.f_fb_hard_step_up_onto_chair,
 
+    };
+    Integer[] female_fb_description = {
+            R.string.abdominal_crunches,
+            R.string.jumping_jack,
+            R.string.plank,
+            R.string.step_up_onto_chair,
+            //R.string.cross_arm_lunges,
+            R.string.crusty_lunges,
+            R.string.knee_push_ups,
+            R.string.push_ups,
+            //R.string.plank,
+            //R.string.plank,
+            //R.string.high_stepping,
+            //R.string.kneepushups,
+            // R.string.plank,
+            R.string.plank,
+            R.string.step_up_onto_chair,
     };
 
     @Override
@@ -381,27 +496,31 @@ public class Exercise extends AppCompatActivity {
         {
             if(exercise_type.equals("Abs workout"))
             {
-                Toast.makeText(getApplicationContext(), "Gender: Female , Abs workout "+level+" "+exercise_no, Toast.LENGTH_SHORT).show();
+                //Toast.makeText(getApplicationContext(), "Gender: Female , Abs workout "+level+" "+exercise_no, Toast.LENGTH_SHORT).show();
+                title.setText(female_abs_name[exercise_no]);
                 image.setImageResource(female_abs_image[exercise_no]); // set image
-                //description.setText(); // set description
+                description.setText(female_abs_description[exercise_no]); // set description
             }
             else if(exercise_type.equals("Upper Body workout"))
             {
-                Toast.makeText(getApplicationContext(), "Gender: Female , Upper Body workout "+level+" "+exercise_no, Toast.LENGTH_SHORT).show();
+                //Toast.makeText(getApplicationContext(), "Gender: Female , Upper Body workout "+level+" "+exercise_no, Toast.LENGTH_SHORT).show();
+                title.setText(female_up_name[exercise_no]);
                 image.setImageResource(female_up_image[exercise_no]); // set image
-                //description.setText(); // set description
+                description.setText(female_up_description[exercise_no]); // set description
             }
             else if(exercise_type.equals("Lower Body workout"))
             {
-                Toast.makeText(getApplicationContext(), "Gender: Female , Lower Body workout "+level+" "+exercise_no, Toast.LENGTH_SHORT).show();
+                //Toast.makeText(getApplicationContext(), "Gender: Female , Lower Body workout "+level+" "+exercise_no, Toast.LENGTH_SHORT).show();
+                title.setText(female_lb_name[exercise_no]);
                 image.setImageResource(female_lb_image[exercise_no]); // set image
-                //description.setText(); // set description
+                description.setText(female_lb_description[exercise_no]); // set description
             }
             else
             {
-                Toast.makeText(getApplicationContext(), "Gender: Female , Full Body workout "+level+" "+exercise_no, Toast.LENGTH_SHORT).show();
+                //Toast.makeText(getApplicationContext(), "Gender: Female , Full Body workout "+level+" "+exercise_no, Toast.LENGTH_SHORT).show();
+                title.setText(female_fb_name[exercise_no]);
                 image.setImageResource(female_fb_image[exercise_no]); // set image
-                //description.setText(); // set description
+                description.setText(female_fb_description[exercise_no]); // set description
             }
         }
     }
