@@ -333,7 +333,12 @@
     </string>
 
     <string name="lb_medium_jump_squats">
-        Jump squats increase your explosive power, improve upper and lower body strength, and burn calories faster than regular squats. Explosive power gives you the ability to take off faster and move quicker, which athletes in football, tennis, and track and field strive for.
+        How to:
+        1. Pointing your toes slightly outwards helps is recommended . Start by putting your feet shoulder-width apart and pointed about 15 degrees outwards.
+        2. Tense your abs like someone is about to punch you.
+        3. Look straight ahead and stand tall!
+
+        Squats, and all of their variations, are a great exercise for the whole body.
     </string>
 
     <string name="lb_medium_mountain_climbers">
@@ -413,6 +418,151 @@
     <string name="fm_up_hard_tricep_dips">Tricep Dips</string>
     <string name="fm_up_hard_plank">Plank</string>
     <string name="fm_up_hard_mountain_climbers">Mountain Climbers</string>
+
+    <string name="abdominal_crunches">
+        How to:
+        1. Lay flat on the floor.Place your hands loosely behind or beside your head
+        2. Bend your knees and place your feet flat on the floor.
+        3. Exhale while you curl your body forward off the floor making sure your shoulder blades come off the floor.
+        4. Hold for one second and then slowly return to the starting position, inhaling while you return to the floor.
+    </string>
+
+    <string name="leg_raises">
+        How to:
+        1. Lie on your back,legs straight and together.
+        2. Keep your legs straight and lift them all the way up to the ceiling until your butt comes off the floor.
+        3. Slowly,lower your legs back down just above the floor.Hold for a minute.
+        4. Raise your legs back up.
+    </string>
+
+    <string name="plank">
+        How to:
+        1. Face down with your forearms and toes on the floor. 
+        2. Place elbows directly under your shoulders and your forearms  facing forward.
+        3. Your  head is relaxed and you should be looking at the floor.
+        4. Keep your torso straight and rigid and your body in a straight line from ears to toes with no sagging or bending.
+    </string>
     
+    <string name="set_up_onto_chair">
+        How to:
+        1. Walkup to the chair with a chair-sit facing in front of you.You should be 2 feet away from the chair.
+        2. Next, take your right foot, step up and continue looking all the straight ahead and then stay back down.
+        3. Similarly, switch legs, step back up and come down.
+    </string>
+
+    <string name="crusty_lunges">
+        How to:
+        1. Start from standing, and step your left leg behind you and to the right so your thighs cross, bending both knees as if you were curtsying.
+        2. Your front knee should be aligned with your front ankle.
+        3. Again return to standing position.
+    </string>
+
+    <string name="mountain_climbers">
+        How to:
+        1. Get into a plank position, making sure to distribute your weight evenly between your hands and your toes.
+        2. Check your form—your hands should be about shoulder-width apart, back flat, abs engaged, and head in alignment.
+        3. Pull your right knee into your chest as far as you can.
+        4. Then switch, pulling that knee out and bringing the other knee in.
+        5. Keeping your hips down, run your knees in and out as far and as fast as you can. Alternate inhaling and exhaling with each leg change
+    </string>
+
+    <string name="tricep_dips">
+        How to:
+        1. Sit on the edge of the chair and grip the edge next to your hips. Your fingers should be pointed at your feet. Your legs are extended and your feet should be about hip-width apart with the heels touching the ground. Look straight ahead with your chin up.
+        2. Press into your palms to lift your body and slide forward just far enough that your behind clears the edge of the chair.
+        3. Lower yourself until your elbows are bent between 45 and 90 degrees.
+        4. Slowly push yourself back up to the start position and repeat. Control the movement throughout the range of motion.
+        5. Begin with 10 repetitions and work up to 25 repetitions over several weeks
+    </string>
+
+    <string name="arm_circles">
+        How to:
+        1. Stand with your feet shoulder-width apart and extend your arms parallel to the floor.
+        2. Circle your arms forward using small controlled motions, gradually making the circles bigger until you feel a stretch in your triceps.
+        3. Reverse the direction of the circles after about 10 seconds.
+    </string>
+
+    <string name="pile_squats">
+        How to:
+        1. Stand with your feet wider than shoulder-width apart, arms at your sides, and point your toes out at an angle.
+        2. Squat down, bending your knees until your thighs are parallel with the ground. As you lower your body, raise your arms above your head.
+        3. Pause, then straighten your legs and return your arms to your sides.
+    </string>
+
+    <string name="wall_sits">
+        How to:
+        1. Lean against the wall with your feet shoulder-width apart and firmly planted on the ground.
+        2. Put your feet forward. Go down as you do so, and keep leaning against the wall. Exhale and slowly slide down into the perfect wall sit position and raise your arms until they are at level with your shoulders and parallel to the floor.
+        3. Hold this position for a second and then inhale and slide up by straightening your arms. Simultaneously, lower your arms and come back to the starting position.
+    </string>
+
+    <string name="bulgarian_split_squats">
+        How to:
+        1. Stand 2 to 3 feet in front of a knee-high platform. Extend your right leg behind you and rest your toes on the bench.Square your hips and shoulders.
+        2. Keeping your torso upright, slowly lower your right knee toward the floor. Your front knee
+            will form approximately a 90-degree angle.
+        3. Reverse the move and return to the starting position.
+    </string>
+
+    <string name="sumo_squat_calf_raises">
+        How to:
+        1.Stand with your feet about three to four feet apart, toes turned out. Bring your hands together in front of your chest, and squat down so your thighs are parallel with the floor, knees over the ankles.
+        2. Raise your left heel off the floor, and begin to pulse the hips up and down, isolating the left calf.
+        3. Continue pu*lsing for 30 seconds, and then switch sides for another 30 seconds.
+        4. Repeat two more times on each side.
+    </string>
+
+    <string name="side_lying_leg_lift_up">
+        How to:
+        1. Extend your legs.Place your top hand on the ground in front of your abs and your supporting arm under your head.
+        2. Lift your top leg up about six to eight inches from the floor. Holding your leg at the highest point of your lift, draw one-inch circles with your heel for 20 reps.
+        3. Keeping your top leg lifted, bend and straighten your knee. Do this 20 times while not letting your thigh lower.
+    </string>
+
+    <string name="bottom_leg_lift">
+        How to:
+        1. Lie on your back, legs straight and together.
+        2. Keep your legs straight and lift them all the way up to the ceiling until your butt comes off the floor.
+        3. Slowly lower your legs back down till they’re just above the floor. Hold for a moment.
+        4. Raise your legs back up.
+    </string>
+
+    <string name="knee_push_ups">
+        How to:
+        1. Get on your hand and knees.
+        2. Crisscross your calves and raise your feet up.
+        3. Lower the upper part of your body to the ground until your elbows are bent to a 90-degree angle.
+        4. Slowly push back up to the starting position.
+    </string>
+
+    <string name="leg_raise">
+        How to:
+        1. Lie on your back,legs straight and together.
+        2. Keep your legs straight and lift them all the way up to the ceiling until your butt comes off the floor.
+        3. Slowly,lower your legs back down just above the floor.Hold for a minute.
+        4. Raise your legs back up.
+    </string>
     
+    <string name="cobras">
+        How to:
+        1. Place your hands palms down on the ground beneath your shoulders.
+        2. Lift your chest up off the ground by straightening your arms.
+        3. Gaze upwards and keep your abdominals engaged.
+    </string>
+
+    <string name="reverse_crunches">
+        How to:
+        1. Lie face up on the floor with your palms facing down. Bend your hips and knees 90 degrees. Raise your hips off the floor and crunch them inward. Pause, and then slowly lower your legs until your heels nearly touch the floor.
+        2. Your knees should move toward your chest. Your hips and lower back should raise up off the floor
+    </string>
+
+    <string name="sit_ups">
+        How to:
+        1. Start by lying on your back with your knees bent.
+        2. Put your fingertips on the back of your ears.
+        3. Lift your torso up as close to your thighs as possible.
+        4. Lower your torso down to the floor so you’re back in the starting position.
+        5. Do 3 sets of 10-15 reps.
+
+    </string>
 </resources>
