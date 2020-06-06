@@ -49,7 +49,7 @@
     <string name="male_lb_hard_lunge_twist">Lunge Twists</string>
 
     <string name="abs_easy_hindupushup">
-        Steps:
+        Steps: \n
         1. Stretch before doing the Hindu push-up.
         2. Get into a starting push-up position.\n
         3. Raise your backside into the air.
@@ -75,7 +75,7 @@
     </string>
 
     <string name="abs_easy_inchworm">
-        Steps:
+        Steps: \n
         1. Stand tall, your feet roughly hip-distance apart.\n
         2. Enable your hands to reach the ground.\n
         3. Place your hands on the floor in front of your feet. Move forward while allowing your heels to lift off the floor.\n
@@ -87,7 +87,7 @@
     </string>
 
     <string name="abs_easy_plank">
-        Steps:
+        Steps: \n
         1. Plant hands directly under shoulders (slightly wider than shoulder width). \n
         2. Ground toes into the floor and squeeze glutes to stabilize your body.\n
         3. Neutralize your neck and spine by looking at a spot on the floor about a foot beyond your hands.\n
@@ -97,7 +97,7 @@
     </string>
 
     <string name="abs_medium_alternate_heal_touches">
-        Steps:
+        Steps: \n
         1. Lay down on your back on and place your feet flat and widen then slightly more than your shoulder-apart-width. \n
         2. Extend your arms towards the downward direction by the side of the body with your palms facing inwards. \n
         3. While exhaling your breath, crunch your abs in the forward right direction. \n
@@ -108,7 +108,7 @@
     </string>
 
     <string name="abs_medium_bench_leg_pull_in">
-        Steps:
+        Steps: \n
         1. Sit on the bench with your legs fully extended in front of you angled towards the floor slightly.\n
         2. Grip the sides of the bench for stability.\n
         3. Leaning back to about a 45-degree angle from the bench.\n
@@ -121,7 +121,7 @@
     </string>
 
     <string name="abs_medium_jackknife_situps">
-        Steps:
+        Steps: \n
         1. Lie flat on the floor with your arms and legs extended. \n
         2. Take a deep breath before you begin. \n
         3. Exhale and contract your abs, raising both arms and legs.\n
@@ -133,7 +133,7 @@
     </string>
 
     <string name="abs_medium_sideplank">
-       Steps:
+       Steps: \n
         1. Start on your side with your feet together and one forearm directly below your shoulder. \n
         2. Contract your core and raise your hips until your body is in a straight line from head to feet. \n
         3. Hold the position without letting your hips drop for the allotted time for each set.\n
@@ -143,7 +143,7 @@
     </string>
 
     <string name="abs_hard_dumbbell_side_bend">
-        Steps:
+        Steps: \n
         1. Stand with feet approximately shoulder width apart.\n
         2. Slowly lean to the right and point where a gentle stretch is felt along the left side.\n
         3. Pause for a second, and then in one slow movement and keeping yourself from twisting.\n
@@ -153,7 +153,7 @@
     </string>
 
     <string name="abs_hard_russian_twist">
-        Steps:
+        Steps: \n
         1. Sit on your sit bones as you lift your feet from the floor, keeping your knees bent.\n
         2. Elongate and straighten your spine at a 45-degree angle from the floor, creating a V shape with your torso and thighs.\n
         3. Reach your arms straight out in front, interlacing your fingers or clasping your hands together.\n
@@ -164,7 +164,7 @@
     </string>
 
     <string name="up_easy_tricep">
-        Steps:
+        Steps: \n
         1. Sit on the edge of the chair and grip the edge next to your hips. Your fingers should be pointed at your feet.\n
         2. Press into your palms to lift your body and slide forward just far enough that your behind clears the edge of the chair.\n
         3. Lower yourself until your elbows are bent between 45 and 90 degrees.\n
@@ -175,7 +175,7 @@
     </string>
     
     <string name="up_easy_triceps_extension">
-        Steps:
+        Steps: \n
         1. Stands with your feet shoulder width apart.\n
         2. Grasp the weight with both hands and place behind your head, aiming for between your shoulder blades. \n
         3. Lift your arms so they’re straight above your head, making sure your elbows don’t flare outward too much. \n
@@ -185,7 +185,7 @@
     </string>
 
     <string name="up_medium_close_grip_pull_up">
-        Steps:
+        Steps: \n
         1. Using a pronated grip, grasp the pull bar with a shoulder width grip.\n
         2. Take a deep breath, squeeze your glutes and brace your abs.\n
         3. Depress the shoulder blades and then drive the elbows straight down to the floor while activating the lats.\n
@@ -196,7 +196,7 @@
     </string>
 
     <string name="up_hard_hammer_grip_pull_up_n">
-        Steps:
+        Steps: \n
         1. Leap up and grip the bar with your hands shoulder width apart and your palms facing away from you.\n
         2. Hang with your arms fully extended, you can bend your legs at the knee if they’re dragging on the ground.\n
         3. Keep your shoulders back and your core engaged throughout. Then pull up.\n
@@ -207,7 +207,7 @@
     </string>
 
     <string name="up_hard_wide_grip_pull_ups">
-        Steps:
+        Steps: \n
         1. Reach up and grab the bar with each hand. Your thumbs should be pointing toward each other, and your grip should be wider than your body.\n
         2. When positioned correctly, your arms and torso should form a ‘Y.’ Each arm should be 30 to 45 degrees from your body, but no more than a 45-degree angle. \n
         3. Look straight ahead and pull your body upwards towards the bar.\n
@@ -217,7 +217,7 @@
     </string>
 
     <string name="fb_easy_bodyweight_squats">
-        Steps:
+        Steps: \n
         1. Pointing your toes slightly outwards helps is recommended . Start by putting your feet shoulder-width apart and pointed about 15 degrees outwards.\n
         2. Tense your abs like someone is about to punch you.\n
         3. Look straight ahead and stand tall!\n
@@ -226,7 +226,7 @@
     </string>
     
     <string name="fb_easy_knee_push_ups">
-        Steps:
+        Steps: \n
         1. Begin in a hands and knees position with your gaze at the floor.\n
         2. Place your hands on the ground on either side of your shoulders. Your knees should be at a comfortable distance apart.\n
         3. Inhale as you slowly lower your elbows to bring your chest toward the ground. Be sure to keep your core muscles contracted.\n
@@ -237,7 +237,7 @@
     </string>
     
     <string name="fb_easy_planks_n">
-        Steps:
+        Steps: \n
         1. Plant hands directly under shoulders (slightly wider than shoulder width).
         2. Ground toes into the floor and squeeze glutes to stabilize your body. \n
         3. Neutralize your neck and spine by looking at a spot on the floor about a foot beyond your hands.\n
@@ -251,7 +251,7 @@
     </string>
 
     <string name="fb_medium_crunches">
-        Steps:
+        Steps: \n
         1. Lie down on your back. Plant your feet on the floor, hip-width apart. \n
         2. Bend your knees and place your arms across your chest. Contract your abs and inhale.\n
         3. Exhale and lift your upper body, keeping your head and neck relaxed.\n
@@ -261,7 +261,7 @@
     </string>
 
     <string name="fb_medium_donkey_kicks">
-        Steps:
+        Steps: \n
         1. Position yourself on all fours on a mat. \n
         2. Position your hands underneath your shoulders and place your knees under your hips. \n
         3. Keep your right knee bent at 90 degrees and flex the foot as you lift the knee until it is level with the hip.\n
@@ -272,7 +272,7 @@
     </string>
 
     <string name="fb_medium_mountain_climbers">
-        Steps:
+        Steps: \n
         1. Put both hands and knees on the floor.\n
         2. Place your right foot near your right hand and extend your left leg behind you.\n
         3. In one smooth motion, switch your legs, keeping your arms in the same position.\n
@@ -282,7 +282,7 @@
     </string>
 
     <string name="fb_hard_burpees">
-        Steps:
+        Steps: \n
         1. Start in a squat position with your knees bent, back straight, and your feet about shoulder-width apart and lower your hand inside your feets.\n
         2. Kick your feet back so you’re in a pushup position.\n
         3. Keeping your body straight from head to heels, do one pushup. Remember not to let your back sag or to stick your butt in the air.\n
@@ -294,7 +294,7 @@
     </string>
 
     <string name="fb_hard_clap_push_ups">
-        Steps:
+        Steps: \n
         1. Lower yourself until your chest is just above the floor.\n
         2. Leave the floor pushing.\n
         3. Quickly clap and reposition your hands.\n
@@ -304,7 +304,7 @@
     </string>
 
     <string name="fb_hard_split_alternating_squat_jumps">
-        Steps:
+        Steps: \n
         1. Stand upright and clasp your hands behind your head.\n
         2. Take one step forward into a split stance.\n
         3. Drop into a split squat so that your leading thigh is parallel to the floor.\n
@@ -315,7 +315,7 @@
     </string>
 
     <string name="lb_easy_calf_raises">
-        Steps:
+        Steps: \n
         1. Start in a standing position with your feet at hip width and your arms by your sides.\n
         2. Keep a straight back and good upright posture, looking straight ahead.\n
         3.From here, contract your calf muscles, hamstrings and glutes so that you raise up on to your toes by lifting your heels up as high as you can.\n
@@ -324,7 +324,7 @@
     </string>
     
     <string name="lb_easy_wall_sit">
-        Steps:
+        Steps: \n
         1. Lean back against the wall with your torso, with your feet shoulder-width apart.\n
         2. Then press back and slide down the wall until your thighs are parallel with the ground.\n
         3. Your knees should be above your ankles and bent at right-angles.\n
@@ -334,7 +334,7 @@
     </string>
 
     <string name="lb_medium_jump_squats">
-        Steps:
+        Steps: \n
         1. Pointing your toes slightly outwards helps is recommended . Start by putting your feet shoulder-width apart and pointed about 15 degrees outwards.\n
         2. Tense your abs like someone is about to punch you.\n
         3. Look straight ahead and stand tall!\n
@@ -343,7 +343,7 @@
     </string>
 
     <string name="lb_medium_mountain_climbers">
-        Steps:
+        Steps: \n
         1. Put both hands and knees on the floor.\n
         2. Place your right foot near your right hand and extend your left leg behind you.\n
         3. In one smooth motion, switch your legs, keeping your arms in the same position.\n
@@ -353,7 +353,7 @@
     </string>
 
     <string name="lb_medium_walking_lunge">
-        Steps:
+        Steps: \n
         1. Stand upright, feet together, and take a controlled step forward with your right leg.\n
         2. Lowering your hips toward the floor by bending both knees to 90-degree angles.\n
         3. The back knee should point toward but not touch the ground, and your front knee should be directly over the ankle.\n
@@ -362,7 +362,7 @@
     </string>
 
     <string name="lb_hard_dumbell_squats">
-         Steps:
+         Steps: \n
             1. Pointing your toes slightly outwards helps is recommended . Start by putting your feet shoulder-width apart and pointed about 15 degrees outwards.\n
             2. Tense your abs like someone is about to punch you.\n
             3. Look straight ahead and stand tall!\n
@@ -371,7 +371,7 @@
     </string>
 
     <string name="lb_hard_lunge_twist">
-        Steps:
+        Steps: \n
         1. Start standing with your feet hip-width apart and arms at shoulder-height, elbows bent to form a goal post around your head.\n
         2. Take a big step forward with your right foot and bend your knees to lower into lunge while twisting your torso over your right leg.\n
         3. Return to standing.\n
@@ -421,20 +421,20 @@
     <string name="fm_up_hard_mountain_climber">Mountain Climbers</string>
 
     <string name="abdominal_crunches">
-        Steps:
+        Steps: \n
         1. Lay flat on the floor.Place your hands loosely behind or beside your head\n
         2. Bend your knees and place your feet flat on the floor.\n
         3. Exhale while you curl your body forward off the floor making sure your shoulder blades come off the floor.\n
         4. Hold for one second and then slowly return to the starting position, inhaling while you return to the floor.\n
     </string>
     <string name="lunge_knee_hops">
-        Steps:
+        Steps: \n
         1. Engage your abdominal muscles, straighten your back and look straight ahead.\n
         2. Maintain this position as you lower your hips toward the floor by bending your legs to 90°.\n
         3. Continue down until your left knee nears the floor, then lift and bring your left knee close to your chest as you hop on the right foot.\n
     </string>
     <string name="push_ups">
-        Steps:
+        Steps: \n
         1. Begin with your chest and stomach flat on the floor.\n
         2. Your legs should be straight out behind you and your palms should be at chest level with the arms bent out at a 45-degree angle.\n
         3. Exhale as you push from your hands and heels, bringing your torso, chest, and thighs off the ground.\n
@@ -442,19 +442,19 @@
     </string>
 
     <string name="leg_raises">
-        Steps:
+        Steps: \n
         1. Lie on your back,legs straight and together.\n
         2. Keep your legs straight and lift them all the way up to the ceiling until your butt comes off the floor.\n
         3. Slowly,lower your legs back down just above the floor.Hold for a minute.\n
         4. Raise your legs back up.\n
     </string>
     <string name="jumping_jack">
-        Steps:
+        Steps: \n
         1. Jump up, widen your leg, either hands up or in a clapping position.\n
         2. Return back and repeat.\n
     </string>
     <string name="plank">
-        Steps:
+        Steps: \n
         1. Face down with your forearms and toes on the floor.\n
         2. Place elbows directly under your shoulders and your forearms  facing forward.\n
         3. Your  head is relaxed and you should be looking at the floor.\n
@@ -462,21 +462,21 @@
     </string>
     
     <string name="step_up_onto_chair">
-        Steps:
+        Steps: \n
         1. Walkup to the chair with a chair-sit facing in front of you.You should be 2 feet away from the chair.\n
         2. Next, take your right foot, step up and continue looking all the straight ahead and then stay back down.\n
         3. Similarly, switch legs, step back up and come down.\n
     </string>
 
     <string name="crusty_lunges">
-        Steps:
+        Steps: \n
         1. Start from standing, and step your left leg behind you and to the right so your thighs cross, bending both knees as if you were curtsying.\n
         2. Your front knee should be aligned with your front ankle.\n
         3. Again return to standing position.\n
     </string>
 
     <string name="mountain_climber">
-        Steps:
+        Steps: \n
         1. Get into a plank position, making sure to distribute your weight evenly between your hands and your toes.\n
         2. Check your form—your hands should be about shoulder-width apart, back flat, abs engaged, and head in alignment.\n
         3. Pull your right knee into your chest as far as you can.\n
@@ -485,7 +485,7 @@
     </string>
 
     <string name="tricep_dips">
-        Steps:
+        Steps: \n
         1. Sit on the edge of the chair and grip the edge next to your hips. Your fingers should be pointed at your feet. Your legs are extended and your feet should be about hip-width apart with the heels touching the ground. Look straight ahead with your chin up.\n
         2. Press into your palms to lift your body and slide forward just far enough that your behind clears the edge of the chair.\n
         3. Lower yourself until your elbows are bent between 45 and 90 degrees.\n
@@ -494,28 +494,28 @@
     </string>
 
     <string name="arm_circles">
-        Steps:
+        Steps: \n
         1. Stand with your feet shoulder-width apart and extend your arms parallel to the floor. \n
         2. Circle your arms forward using small controlled motions, gradually making the circles bigger until you feel a stretch in your triceps. \n
         3. Reverse the direction of the circles after about 10 seconds.\n
     </string>
 
     <string name="plie_squats">
-        Steps:
+        Steps: \n
         1. Stand with your feet wider than shoulder-width apart, arms at your sides, and point your toes out at an angle.\n
         2. Squat down, bending your knees until your thighs are parallel with the ground. As you lower your body, raise your arms above your head.\n
         3. Pause, then straighten your legs and return your arms to your sides.\n
     </string>
 
     <string name="wall_sit">
-        Steps:
+        Steps: \n
         1. Lean against the wall with your feet shoulder-width apart and firmly planted on the ground.\n
         2. Put your feet forward. Go down as you do so, and keep leaning against the wall. Exhale and slowly slide down into the perfect wall sit position and raise your arms until they are at level with your shoulders and parallel to the floor.\n
         3. Hold this position for a second and then inhale and slide up by straightening your arms. Simultaneously, lower your arms and come back to the starting position.\n
     </string>
 
     <string name="bulgarian_squat">
-        Steps:
+        Steps: \n
         1. Stand 2 to 3 feet in front of a knee-high platform. Extend your right leg behind you and rest your toes on the bench.Square your hips and shoulders.\n
         2. Keeping your torso upright, slowly lower your right knee toward the floor. Your front knee\n
             will form approximately a 90-degree angle.\n
@@ -523,7 +523,7 @@
     </string>
 
     <string name="sumo_squat_calf_raises">
-        Steps:
+        Steps: \n
         1.Stand with your feet about three to four feet apart, toes turned out. Bring your hands together in front of your chest, and squat down so your thighs are parallel with the floor, knees over the ankles.\n
         2. Raise your left heel off the floor, and begin to pulse the hips up and down, isolating the left calf.\n
         3. Continue pu*lsing for 30 seconds, and then switch sides for another 30 seconds.\n
@@ -531,14 +531,14 @@
     </string>
 
     <string name="side_lying_leg_lift_up">
-        Steps:
+        Steps: \n
         1. Extend your legs.Place your top hand on the ground in front of your abs and your supporting arm under your head.\n
         2. Lift your top leg up about six to eight inches from the floor. Holding your leg at the highest point of your lift, draw one-inch circles with your heel for 20 reps.\n
         3. Keeping your top leg lifted, bend and straighten your knee. Do this 20 times while not letting your thigh lower.\n
     </string>
 
     <string name="bottom_leg_lift">
-        Steps:
+        Steps: \n
         1. Lie on your back, legs straight and together.\n
         2. Keep your legs straight and lift them all the way up to the ceiling until your butt comes off the floor.\n
         3. Slowly lower your legs back down till they’re just above the floor. Hold for a moment.\n
@@ -546,7 +546,7 @@
     </string>
 
     <string name="knee_push_ups">
-        Steps:
+        Steps: \n
         1. Get on your hand and knees.\n
         2. Crisscross your calves and raise your feet up.\n
         3. Lower the upper part of your body to the ground until your elbows are bent to a 90-degree angle.\n
@@ -554,7 +554,7 @@
     </string>
 
     <string name="leg_raise">
-        Steps:
+        Steps: \n
         1. Lie on your back,legs straight and together.\n
         2. Keep your legs straight and lift them all the way up to the ceiling until your butt comes off the floor.\n
         3. Slowly,lower your legs back down just above the floor.Hold for a minute.\n
@@ -562,20 +562,20 @@
     </string>
     
     <string name="cobras">
-        Steps:
+        Steps: \n
         1. Place your hands palms down on the ground beneath your shoulders.\n
         2. Lift your chest up off the ground by straightening your arms.\n
         3. Gaze upwards and keep your abdominals engaged.\n
     </string>
 
     <string name="reverse_crunches">
-        Steps:
+        Steps: \n
         1. Lie face up on the floor with your palms facing down. Bend your hips and knees 90 degrees. Raise your hips off the floor and crunch them inward. Pause, and then slowly lower your legs until your heels nearly touch the floor.\n
         2. Your knees should move toward your chest. Your hips and lower back should raise up off the floor. \n
     </string>
 
     <string name="sit_ups">
-        Steps:
+        Steps: \n
         1. Start by lying on your back with your knees bent.\n
         2. Put your fingertips on the back of your ears.\n
         3. Lift your torso up as close to your thighs as possible.\n
