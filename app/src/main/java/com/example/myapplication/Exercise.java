@@ -85,7 +85,7 @@ public class Exercise extends AppCompatActivity {
             //R.string.up_medium_chinups,
             R.string.up_medium_close_grip_pull_up,
             R.string.up_easy_triceps_extension,
-            R.string.up_easy_bicep_curl,
+            //R.string.up_easy_bicep_curl,
 
 
     };
@@ -96,7 +96,7 @@ public class Exercise extends AppCompatActivity {
             //R.drawable.up_medium_chinups,
             R.drawable.up_medium_close_grip_pull_up,
             R.drawable.up_easy_triceps_extension,
-            R.drawable.up_easy_bicep_curl,
+           // R.drawable.up_easy_bicep_curl,
 
 
     };
