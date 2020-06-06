@@ -2,15 +2,14 @@
     <string name="app_name">Home Workout</string>
 
     <string-array name="male_selection_spinner">
-        <item>Select from here</item>
-        <item>Beginner</item>
-        <item>Intermediate</item>
-        <item>Expert</item>
+        <!--- <item>Select from here</item> -->
+        <item>\t\t\Select\t\t</item>
+        <item>\t\tBeginner</item>
+        <item>\t\tIntermediate</item>
+        <item>\t\tExpert</item>
     </string-array>
 
-    <string name="splash_screen">Workout
-                                    From
-                                    Home
+    <string name="splash_screen">Home \n Workout
     </string>
 
     <string name="male_abs_easy_hindupushup"> Hindu Push-ups </string>
