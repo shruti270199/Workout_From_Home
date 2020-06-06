@@ -28,7 +28,7 @@ public class Feedback extends AppCompatActivity {
         editbody = (EditText)findViewById(R.id.bodyedit);
         fbbutton = (Button)findViewById(R.id.sendfb);
         exp = (TextView)findViewById(R.id.experience);
-        YoYo.with(Techniques.Wobble).duration(1000).repeat(1).playOn(exp);
+        YoYo.with(Techniques.FadeInUp).duration(2000).repeat(0).playOn(exp);
         fbbutton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

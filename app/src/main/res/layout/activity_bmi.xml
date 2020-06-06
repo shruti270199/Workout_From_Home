@@ -9,7 +9,8 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:orientation="vertical"
-    tools:context="com.example.myapplication.BMI">
+    tools:context="com.example.myapplication.BMI"
+    android:background="@drawable/background">
 
     <TextView
         android:text="Weight in Kg"
@@ -17,8 +18,10 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:gravity="center_horizontal"
+        android:fontFamily="@font/averia_libre"
+        android:textColor="@color/colorAccent"
         android:layout_marginTop="50dp"
-        android:textSize="20sp"/>
+        android:textSize="25sp"/>
 
     <EditText
         android:id="@+id/weight"
@@ -37,7 +40,9 @@
         android:layout_gravity="center_horizontal"
         android:gravity="center_horizontal"
         android:layout_marginTop="50dp"
-        android:textSize="20sp"/>
+        android:textColor="@color/colorAccent"
+        android:fontFamily="@font/averia_libre"
+        android:textSize="25sp"/>
 
     <EditText
         android:id="@+id/height"
@@ -51,12 +56,13 @@
 
     <Button
         android:id="@+id/calc"
-        android:layout_width="wrap_content"
+        android:layout_width="150dp"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="25dp"
         android:onClick="calculateBMI"
-        android:text="calculateBMI"
+        android:background="@drawable/button_des"
+        android:text="calculate BMI"
         />
 
     <TextView

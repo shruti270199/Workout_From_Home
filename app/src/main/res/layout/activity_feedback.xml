@@ -42,11 +42,12 @@
                 android:id="@+id/totext"/>
 
             <EditText
-                android:layout_width="wrap_content"
-                android:layout_height="35dp"
+                android:layout_width="250dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
                 android:id="@+id/toedit"
                 android:textSize="16sp"
-                android:layout_margin="5dp"
+                android:layout_marginTop="2dp"
                 android:layout_below="@+id/totext"/>
 
             <TextView
@@ -63,11 +64,12 @@
 
             <EditText
                 android:layout_width="wrap_content"
-                android:layout_height="35dp"
+                android:layout_height="40dp"
                 android:id="@+id/subedit"
                 android:textSize="16sp"
                 android:text="Feedback"
-                android:layout_margin="5dp"
+                android:layout_marginTop="2dp"
+                android:layout_marginLeft="5dp"
                 android:layout_below="@+id/subtext"/>
 
             <TextView
